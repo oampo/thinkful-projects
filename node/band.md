@@ -1,6 +1,20 @@
+Level: Intermediate
+
+Time: 3 hours
+
+Goals: Write an app to name your band, and give yourselves rock-star names
+
+Concepts: Node, servers, Express, form handling
+
+Pre-reqs: Proficient with JavaScript, Creating Node servers
+
+##Project Brief
+
 You've grown your [hair long](http://www.bbc.co.uk/staticarchive/ba447cda441cdf12b3c505c727e259343a1b2d1f.jpg).  You've got some [platform shoes](http://vignette2.wikia.nocookie.net/tron/images/8/82/Ziggy-stardust-david-bowie.jpg/revision/latest?cb=20101122042616).  You've got a [Marshall stack](http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/MarshallStack_Slayer.jpg/1920px-MarshallStack_Slayer.jpg), a [sweet axe](http://proguitarshop.com/media/cms/blog/abstract-symbol-01.jpg), and [bags of attitude](http://cdn.smosh.com/sites/default/files/legacy.images/smosh-pit/092010/worstband-40.jpg).  That's right, you're [forming a band](https://www.youtube.com/watch?v=Nek-YO7v3Yw)!
 
 But a great band is nothing without a great band name.  Would Megadeth have sold so many albums if they were called Medium-sized-deth?  I think not.  And who wants to spend the time thinking of a great name, when you can get a computer to do the hard work for you?
+
+##Milestones
 
 For a gig in the back room of the local bar you should write an app which:
 
@@ -21,7 +35,7 @@ To sell out three nights at Madison Square Garden your app should:
 * Use the pseudonym generator to create a pseudonym for each member.
 * Display the band name, along with the pseudonyms and instruments.
 
-## Readings
+##Additional Resources
 
 To complete this project, you'll want to be familiar with the following concepts:
 
