@@ -1,12 +1,22 @@
-## Background
+Level: Advanced
+
+Time: 12 hours
+
+Goals: Create the next big thing in social networking
+
+Concepts: Node, servers, Express, MongoDB, Authentication, Templating
+
+Pre-reqs: Proficient with JavaScript, Creating Node servers
+
+##Project Brief
 
 This project has you build a simple web application to learn the basics of Node with Express. You'll set up authentication, work with a Mongo database, and learn how Node works with templating engines. You should already be comfortable programming in JavaScript and understand MVC frameworks, but no prior Node experience is required.
-
-## Project
 
 Thinkr is the hot new social network which lets you tell the world what you are thinking in Thoughts: messages made up of 4 characters or fewer.  A $1 million seed round from Peter Thiel was followed by sustained exponential growth over a 24 hour period.  This led to a $100 million series A investment led by Andreessen Horowitz which valued the company at a little over $1 billion.  Two weeks later and Thinkr is preparing for the largest IPO in stock market history.
 
 However there is one small hitch.  A disgruntled TechCrunch journalist has written a stinging exposé revealing that the Thinkr team don't have a single line of code written.  At short notice you have been called in to remedy the situation by creating the Thinkr backend from scratch using Node.js, Express and MongoDB.
+
+##Milestones
 
 To secure an IPO of $30 billion your backend should:
 
@@ -27,7 +37,7 @@ For a $100 billion IPO your backend should:
 * Let users search all thoughts by hashtag.  Because who needs four characters when you can express your thoughts in #thr...ee?
 
 
-## Readings
+##Additional Resources
 
 To complete this project, you'll want to be familiar with the following concepts:
 
