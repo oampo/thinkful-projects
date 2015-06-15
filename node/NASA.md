@@ -16,6 +16,7 @@ The Administrator of NASA took charge of the situation immediately, realizing th
 
 The cannon was built in record time coming in only three years late and $5 billion over budget.  Now all that needs to be done is to work out when the ISS is going to be overhead, and fire the cannon.  And that is where you have been called in.
 
+##Milestones
 To save the Administrator's bacon you need to write an app which:
 
 * Has a simple HTML form with two inputs, one for latitude and one for longitude
@@ -24,8 +25,6 @@ To save the Administrator's bacon you need to write an app which:
 * When the API responds your app should:
     - Convert the risetime to a human-readable date and time using the [JavaScript Date object](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Date)
     - Display the date and time of the next passes of the ISS in a results page
-
-##Milestones
 
 To secure the Administrator's job for the next 5 years your app should:
 
