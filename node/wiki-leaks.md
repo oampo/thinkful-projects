@@ -20,6 +20,11 @@ You take a look at the code, to find [this monstrosity](https://gist.github.com/
 2. Take a read through the code, paying particular attention to any parts which seems unusual, or where you discovered leaky behavior in milestone 1.  Are there any obvious errors which would cause memory leaks?
 3. Update the code to remove the memory leaks.  Although you might feel that a complete rewrite is in order (it definitely is!), think of your bosses feelings and try to keep the feel of the original code.
 
+# Resources
+
+* For a high-level recap of references in JavaScript take a look at [this chapter of JavaScript Allongé](https://github.com/Thinkful-Ed/js-allonge-book/blob/master/content/3_References%20and%20Rebinding/content.md)
+* The Chrome memory profiler can help you visualize how memory is being used in your application.  There is information about how to use the profiles, plus some useful information about how memory is stored and free in [this guide](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
+
 # Footnotes
 
 (*) Programmer Joke Alert: This one relies on you knowing that a [cryptographic hash function](https://en.wikipedia.org/wiki/Cryptographic_hash_function) is almost definitely a bad choice for implementing a Bidirectional Hashmap, a data-structure which has very little to do with secrecy and security.
