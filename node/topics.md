@@ -14,9 +14,13 @@ Lodash
 Intermediate  
 This project tasks you with practicing some of the functional programming library's most useful features, such as its collection methods (find, where, pluck, pick) and its function methods (throttle, debounce, delay, partial, wrap, once, bindAll).
 
-Garbage Collection with Node  
+Plugging Memory Leaks  
 Intermediate  
-Plug the memory leaks! Clone an inital project and get garbage collection running to improve your app's performance.
+Stop the leaking memory! Clone a starter project and get garbage collection running to improve your app's performance.
+
+Building applications with Hapi.js  
+Intermediate  
+Get comfortable with the core features of Hapi.js, one of the more popular Node frameworks.
 
 Using and Building NPM Modules  
 Intermediate  
@@ -28,7 +32,7 @@ Learn to deploy Node apps: from simple side-projects to large scale applications
 
 Node Streams  
 Advanced  
-Streams let you read data from a source and pipe it to a destination as it arrives. Streams let you write code that's more memory-efficient, delivering content to your users faster. Write your first program using streams, implementing simple versions of the *NIX `cat` and `wc` commands.
+Streams let you read large quantities of data from a source and pipe it to a destination as it arrives, delivering content to your users faster.
 
 Chatroom with Node & React  
 Advanced  

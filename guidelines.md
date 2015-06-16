@@ -1,8 +1,13 @@
 A project is an activity that teaches students to use a concept or tool by practicing it. A project is not a tutorial or a walkthrough; rather, a project links to tutorials for explanations of concepts that the student will use to build something.
 
-Here are two (early) examples:
-- https://gist.github.com/tholex/a6ef2622b874674718d6
-- https://gist.github.com/danfriedman/7ace6b9aa98de176a722
+Try to hone in on just one or two concepts when you're writing and really get the student to use that skill to complete a task. Before starting, ask yourself these questions:
+- "What will the student learn?" 
+- "What level is this aimed at? Beginner, intermediate, or advanced?"
+- "What project will help them use that skill?"
+
+Read these examples first: 
+- https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/jedi.md
+- https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/Thinkr.md
 
 What follows is a template for a project-first course.
 

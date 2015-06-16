@@ -1,9 +1,22 @@
+Level: Intermediate
+
+Time: 12 hours
+
+Goals: Create the next big thing in social networking
+
+Concepts: Node, servers, Express, Form handling, HTTP Clients, Making requests to APIs, Templating, Asynchronous programming
+
+Pre-reqs: Proficient with JavaScript, Creating Node servers, HTML
+
+##Project Brief
+
 Following the latest round of budget cuts, NASA were forced to "dehire" a number of members of staff.  As the last engineer packed her box and headed for the exit, she helpfully pointed out to her project manager that she was the last person at NASA who knew the location of the International Space Station (ISS).  And that the GPS on board the ISS was on the fritz.
 
 The Administrator of NASA took charge of the situation immediately, realizing the damage that losing $150 billion worth of space station could do to his reputation, not to mention his retirement fund.  Rather than crunching the numbers to work out where the ISS had got to, the Administrator ordered that a giant cannon should be built to fling a new GPS to the waiting ISS crew.
 
 The cannon was built in record time coming in only three years late and $5 billion over budget.  Now all that needs to be done is to work out when the ISS is going to be overhead, and fire the cannon.  And that is where you have been called in.
 
+##Milestones
 To save the Administrator's bacon you need to write an app which:
 
 * Has a simple HTML form with two inputs, one for latitude and one for longitude
@@ -24,7 +37,7 @@ To get the Administrator a healthy raise at his next pay review your app should:
 * Use the [Yahoo Weather API](https://developer.yahoo.com/weather/) to retrieve the weather conditions for the location on the potential firing dates
 * Display the forecasts on the results page
 
-## Readings
+##Resources
 
 To complete this project, you'll want to be familiar with the following concepts:
 
