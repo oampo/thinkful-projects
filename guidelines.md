@@ -5,9 +5,9 @@ Try to hone in on just one or two concepts when you're writing and really get th
 - "What level is this aimed at? Beginner, intermediate, or advanced?"
 - "What project will help them use that skill?"
 
-Here are two (early) examples:
-- https://gist.github.com/tholex/a6ef2622b874674718d6
-- https://gist.github.com/danfriedman/7ace6b9aa98de176a722
+Read these examples first: 
+- https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/jedi.md
+- https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/Thinkr.md
 
 What follows is a template for a project-first course.
 
