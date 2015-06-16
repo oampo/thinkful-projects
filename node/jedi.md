@@ -25,3 +25,5 @@ Milestone 2: Greet the Jedi
 1. Now that you're requesting data from the URL to the server, concatenate the string into one name. If you need a refresher on concatenating with JavaScript, you can find one [here](https://courses.thinkful.com/node-001v4/assignment/1.1.2).
 2. Next, slice the string to just the first three letters of the given last name and the first to letters of the first name (hint: you may want to use [array slicing](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/slice). 
 3. Finally, return the Jedi name to the browser. If you need help, review this lesson on [returning JSON from a Node server](https://courses.thinkful.com/node-001v4/assignment/2.2.2). 
+
+Once you've tried the project on your own take a look at the [sample solution here.](https://gist.github.com/oampo/41eec381254a01462bdd#file-jedi-js)
