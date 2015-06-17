@@ -34,7 +34,7 @@ The endpoint should receive JSON data in the following format:
             "length": 180
         }
     ],
-    price: 146.94
+    "price": 146.94
 }
 ```
 
