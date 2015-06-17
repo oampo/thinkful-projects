@@ -23,7 +23,9 @@ You take a look at the code, to find [this monstrosity](https://gist.github.com/
 # Resources
 
 * For a high-level recap of references in JavaScript take a look at [this chapter of JavaScript Allongé](https://github.com/Thinkful-Ed/js-allonge-book/blob/master/content/3_References%20and%20Rebinding/content.md)
+* [This article](http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/) introduces two Node.js modules which can be used to detect memory leaks in a Node application.
 * The Chrome memory profiler can help you visualize how memory is being used in your application.  There is information about how to use the profiles, plus some useful information about how memory is stored and free in [this guide](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
+* [This article from Netflix](http://techblog.netflix.com/2014/11/nodejs-in-flames.html) has a great account of finding an fixing a memory leak in a Node.js app.
 
 # Footnotes
 
