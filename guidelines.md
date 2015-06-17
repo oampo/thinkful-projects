@@ -6,8 +6,8 @@ Try to hone in on just one or two concepts when you're writing and really get th
 - "What project will help them use that skill?"
 
 Read these examples first: 
-- https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/jedi.md
-- https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/Thinkr.md
+- An intermediate project on memory leaks: https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/memory_leaks/wiki-leaks.md
+- A beginner project on building a web server with Node and Express: https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/jedi.md
 
 What follows is a template for a project-first course.
 
