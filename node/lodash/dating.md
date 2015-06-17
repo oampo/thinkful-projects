@@ -6,9 +6,9 @@ Topics: Functional styled JavaScript; Data management of Collections and Objects
 
 ## Brief
 
-It's the year 2046 and you are the lead JavaScript technician for a new start-up offering "on-line dating with programming languages". It's become a global sensation as people are looking to daily flirt with some code. Your service takes the user's personal interests and matches them up with specially moulded courses.
+It's the year 2046 and you're the lead JavaScript developer for a startup offering "online dating with programming languages." At this point, coding is mainstream, and thousands of people are looking to meet new programming languages every day. Your service takes a user's personal interests and matches them with custom-designed courses to learn new languages. Users now want more features to help choose their new programming languages.
 
-After a chat with the lead architect, some unit tests were agreed on for functions you should write. The functions are divided into node data management and client side request builders. The data management functions will be used in the node server when responding to API requests. The client side request builders will be used for making those requests using one of the now 100 types of AJAX protocols.
+After a chat with the lead architect, you agreed on a series of unit tests that will guide functions you should write. The functions are either tied managing data with Node or are client-side request builders. The data management functions will be used in the Node server when responding to API requests. The request builders will be used for making requests using the AJAX protocol.
 
 ## MileStones
 
