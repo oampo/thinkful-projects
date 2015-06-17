@@ -4,7 +4,7 @@ Topics: Testing API endpoints, Mocha, Chai, Handling JSON, API error codes
 
 # Project Brief
 
-Amazon have finally decided to enter the 21st Century and redesign their site as a single page application.  You have been tasked with writing and testing the API endpoint for adding records to their collection.
+Amazon have finally decided to enter the 21st Century and redesign their site as a single page application.  You have been tasked with writing and testing the API endpoint for adding vinyl records to their list of products.
 
 The endpoint should receive JSON data in the following format:
 
@@ -33,7 +33,8 @@ The endpoint should receive JSON data in the following format:
             'title': 'Prices Yeah!',
             'length': 180
         }
-    ]
+    ],
+    price: 146.94
 }
 ```
 
