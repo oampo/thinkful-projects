@@ -8,7 +8,7 @@ Topics: Functional styled JavaScript; Data management of Collections and Objects
 
 It's the year 2046 and you're the lead JavaScript developer for a startup offering a service that helps users "meet new programming languages." Far more than a swipe-right swipe-left app, your service takes a user's personal interests and matches them with custom-designed courses to learn new languages. Users now want more features to help choose their new programming languages.
 
-After a chat with the lead architect, you agreed on a series of unit tests that will guide functions you should write. The functions will either manage data with Node or they'll be client-side request builders. The data management functions will be used for the Node server to respond to API requests. The request builders will be used to make requests using AJAX.
+After a chat with the lead architect, you agreed on a series of unit tests that will guide functions you should write. Use a lodash method in each functino – in each case, it'll save you time and hassle to solve it doing so. Each function will either manage data with Node (used to respond to API requests) or will make a request from the client using AJAX.
 
 ## MileStones
 
