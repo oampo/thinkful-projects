@@ -10,28 +10,28 @@ The endpoint should receive JSON data in the following format:
 
 ```json
 {
-    'artist': 'Pavement',
-    'album': 'Slay Tracks (1933–1969)',
-    'tracks': [
+    "artist": "Pavement",
+    "album": "Slay Tracks (1933–1969)",
+    "tracks": [
         {
-            'title': 'You're Killing Me',
-            'length': 200
+            "title": "You"re Killing Me",
+            "length": 200
         },
         {
-            'title': 'Box Elder',
-            'length': 146
+            "title": "Box Elder",
+            "length": 146
         },
         {
-            'title': 'Maybe Maybe',
-            'length': 134
+            "title": "Maybe Maybe",
+            "length": 134
         },
         {
-            'title': 'She Believes',
-            'length': 182
+            "title": "She Believes",
+            "length": 182
         },
         {
-            'title': 'Prices Yeah!',
-            'length': 180
+            "title": "Prices Yeah!",
+            "length": 180
         }
     ],
     price: 146.94
