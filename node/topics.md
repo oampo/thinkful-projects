@@ -30,11 +30,11 @@
 - Intermediate
 - Get comfortable with the core features of Hapi.js, one of the more popular Node frameworks.
 
-### Using and Building NPM Modules – In progress
+### Using and Building NPM Modules – In progress
 - Intermediate
 - If you use Node, you depend on NPM, the package manager for Node. Learn to use NPM and publish your own NPM packages.
 
-### Using Error Objects
+### Using Error Objects - In Progress
 - Intermediate
 - Error objects are first class citizens in Node and are using everywhere to handle undesirable scenarios (e.g., error first callbacks). Learn how to use them effectively, and when/where to throw them.
 
