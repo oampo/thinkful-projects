@@ -6,9 +6,11 @@ Topics: Functional styled JavaScript; Data management of Collections and Objects
 
 ## Brief
 
-It's the year 2046 and you're the lead JavaScript developer for a startup offering a service that helps users "meet new programming languages in your area." Far more than a swipe-right swipe-left app, your service takes a user's personal interests and matches them with custom-designed courses to learn new languages. Users now want more features to help choose their new programming languages.
+These days, lonely coders rely on online learning to get to know new languages. But let’s be honest: one-app stands with the wrong language can lead to recurring bugs. Gone are the days of swiping left and right for the next best thing. Programmers are looking for languages they can trust.
 
-After a chat with the lead architect, you agreed on a series of unit tests that will guide functions you should write. Use a lodash method in each functino – in each case, it'll save you time and hassle to solve it doing so. Each function will either manage data with Node (used to respond to API requests) or will make a request from the client using AJAX.
+You’re the lead developer for Java Meets Bagel, a service that takes a user’s personal interests and matches them with courses that help them get to know new languages in a deeper, more authentic way.
+
+After a chat with the lead architect, you agreed on a series of unit tests that will guide functions you should write. Use a lodash method in each function – in each case, doing so will save you time and hassle. Each function will either manage data with Node (used to respond to API requests) or will make a request from the client using AJAX.
 
 ## MileStones
 
