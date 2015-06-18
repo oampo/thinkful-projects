@@ -10,7 +10,7 @@
 - Beginner
 - Working in JS on the server is different than working on JS on the client. This project covers those key differences, for example not building utilities or classes that maintain global state between users.
 
-### Asynchronous Programming Patterns
+### Asynchronous Programming Patterns - in progress
 - Intermediate
 - Learn to avoid _callback hell_ while processing a series of text files asynchronously. Use new features including promises, generators, and async.
 
