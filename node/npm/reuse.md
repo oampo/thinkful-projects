@@ -10,27 +10,16 @@ Pre-reqs: command line, JavaScript, JSON
 
 ##Project Brief
 
-You have just created a sweet new node package, but it's name is already taken in the npm registry?  No worries!  It is possible to run your own npm registry.  This can be useful if you don't want to share your code publicly, or when your package name is already taken.
-
-npm config:
-* going through a proxy server
-* setting a custom registry
-* using a proxy
-* use a certain group when running package scripts
-* setting the default prefix (currently is ^)
-* devDependencies, dependencies, optionalDependencies
-* shrinkwrap
-* node_module lookup
-* npmrc files
-
-
+In order to reuse your code among all your projects, and allow others to use your code, you have to package your code in ...packages.  npm is the tool used to create and install packages into your application.  Once packages are installed, you can use the `require` function to include them in your code.  To get started with what npm has to offer, checkout [npm's screencasts](https://docs.npmjs.com/getting-started/what-is-npm) which teach you everything you need to know. 
 
 ##Milestones
 
-Create your own package
+* Create your own package called mini.
+* Create a second project called max.  This time you want to require mini inside of max, but you can't publish mini or max to the npm registry (they're both taken).  Use [npm link](https://docs.npmjs.com/cli/link) to include mini inside of max.
+* Now we want to create a private registry to host our max and mini packages.  [Using sinopia](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/) as your registry, publish max and mini.
+* If you are worried that your dependency's dependencies are going to cause issues, you can force them to remain the same version.  Lock down max's dependencies with [shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap).
 
-Start up a sinopia instance
+##Additional Resources
 
-Publish your package to your sinopia instance
-
-Only allow your package for node 0.12 engine
+* [How to npm](https://github.com/npm/how-to-npm)
+* [Node module lookup](https://nodejs.org/api/modules.html#modules_loading_from_node_modules_folders)
