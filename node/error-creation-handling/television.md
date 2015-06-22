@@ -1,3 +1,7 @@
+Level: Beginner
+Time Estimate: 1 hour
+Topics: Error handling, Callbacks, Inheritance
+
 # Project Brief
 
 The new Samsung Smart TV features 4-D images, 8-D sound, hyper-HD technology, and best of all, a JavaScript API.  Reliability on the early models isn't great, so you have been asked to implement the error handling code for [the JavaScript API](https://gist.github.com/oampo/5c76f5df3bcb7ee8cc8d).  To help you out the chief engineer has printed out a copy of the troubleshooting section of the manual:
