@@ -1,11 +1,13 @@
-Level: Intermediate
+title: Form Handling and Servers
+description: Write an app to name your band, and give yourselves rock-star names
+duration: 3 hours
+date_implemented: 
+skill_level: Intermediate
+slug:
+tags: Node
 
-Time: 3 hours
-
-Goals: Write an app to name your band, and give yourselves rock-star names
 
 Concepts: Node, servers, Express, form handling
-
 Pre-reqs: Proficient with JavaScript, Creating Node servers
 
 ##Project Brief

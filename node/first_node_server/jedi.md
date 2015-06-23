@@ -1,18 +1,19 @@
-Level: Beginner
-
-Time: 2 hours
-
-Goals: Write your first Node server that returns different content depending on the URL
+title: First Node Server
+description: Write your first Node server that returns different content depending on the URL
+duration: 2 hours
+date_implemented: 
+skill_level: Beginner
+slug:
+tags: Node
 
 Concepts: Node, servers, Express, request parameters, string concatenation, array slicing
-
 Pre-reqs: Proficient with JavaScript
 
 ## Project
 
 Create a server which, when you visit the /jedi URL, should work out what a person's Jedi name is and greet them. Your Jedi name is the first three letters of your last name, followed by the first two letters of your first name. So visiting /jedi/Beyonce/Knowles should respond with "Hello KnoBe".
 
-## Steps
+##Milestones
 
 Milestone 1: Get your server running
 

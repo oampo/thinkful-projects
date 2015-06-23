@@ -1,11 +1,13 @@
-Level: Intermediate
+title: Memory Leaks
+description: Find the memory leaks in a bidirectional-map implementation
+duration: 45 minutes
+date_implemented: 
+skill_level: Intermediate
+slug:
+tags: Node
 
-Time: 45 minutes
-
-Goals: Find the memory leaks in a bidirectional-map implementation
 
 Concepts: Memory leaks, profiling
-
 Pre-reqs: Proficient with JavaScript.  Understanding of how garbage is collected in JavaScript.
 
 # Project brief

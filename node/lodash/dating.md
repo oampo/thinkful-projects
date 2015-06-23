@@ -1,10 +1,14 @@
-## Functional Programming with Lodash
+title: Functional Programming with Lodash
+description: 
+duration: 4 hours
+date_implemented: 
+skill_level: Intermediate
+slug:
+tags: Node
 
-Level: Intermediate (and some Advanced)
-Time Estimate: 4h
-Topics: Functional styled JavaScript; Data management of Collections and Objects; Partial Application, Composition and Combinators
+Concepts: Functional styled JavaScript; Data management of Collections and Objects; Partial Application, Composition and Combinators
 
-## Brief
+## Project Brief
 
 These days, lonely coders rely on online learning to get to know new languages. But let’s be honest: one-app stands with the wrong language can lead to recurring bugs. Gone are the days of swiping left and right for the next best thing. Programmers are looking for languages they can trust.
 
@@ -12,7 +16,7 @@ You’re the lead developer for Java Meets Bagel, a service that takes a user’
 
 After a chat with the lead architect, you agreed on a series of unit tests that will guide functions you should write. Use a lodash method in each function – in each case, doing so will save you time and hassle. Each function will either manage data with Node (used to respond to API requests) or will make a request from the client using AJAX.
 
-## MileStones
+## Milestones
 
 1. Clone [the repository](https://github.com/Thinkful-Ed/node-lodash) containing a starter point and some unit tests.
 
