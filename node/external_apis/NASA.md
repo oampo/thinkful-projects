@@ -1,5 +1,5 @@
-title: Space Jam: Save NASA Using External APIs
-description: Use APIs to save the International Space Station.
+title: Space Jam: Save NASA Using External API's
+description: Use third-party API's to save the International Space Station.
 duration: 12 hours
 date_implemented: 
 skill_level: Intermediate
