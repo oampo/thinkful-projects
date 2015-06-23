@@ -1,11 +1,12 @@
-Level: Intermediate
-
-Time: 12 hours
-
-Goals: Create the next big thing in social networking
+title: External APIs
+description: 
+duration: 12 hours
+date_implemented: 
+skill_level: Intermediate
+slug:
+tags: Node
 
 Concepts: Node, servers, Express, Form handling, HTTP Clients, Making requests to APIs, Templating, Asynchronous programming
-
 Pre-reqs: Proficient with JavaScript, Creating Node servers, HTML
 
 ##Project Brief

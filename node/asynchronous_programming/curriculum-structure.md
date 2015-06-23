@@ -1,4 +1,12 @@
-# Project
+title: Asynchronous Programming
+description: Learn to avoid callback hell while processing a series of text files asynchronously. Use new features including promises, generators, and async.
+duration: 
+date_implemented: 
+skill_level: Intermediate
+slug:
+tags: Node
+
+##Project Brief
 
 A noted ed-tech are rewriting the code which generates their curricula.  The curricula are stored on disk with the following structure:
 
@@ -62,13 +70,13 @@ The number of units, lessons, and assignments in each curriculum varies.  Your t
 ```
 
 
-## Caveats
+##Caveats
 
 * There may be other files in the curriculum directories.  Only files matching the `assignment-#.md` format should be added to the object.
 * Some of the lessons may be symlinks to lessons from other curricula.  The symlinks should be followed to get to the content.
 * The curricula may be very large, so in order to complete the task quickly the code needs to perform the IO asynchronously.
 
-# Steps
+##Milestones
 
 Milestone 1: Listing the file structure
 

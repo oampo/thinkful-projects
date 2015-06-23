@@ -1,11 +1,13 @@
-Level: Intermediate
+title: npm
+description: Publish and use your own npm packages
+duration: 4 hours
+date_implemented: 
+skill_level: Intermediate
+slug:
+tags: Node
 
-Time: 4 hours
-
-Goals: Publish and use your own npm packages.
 
 Concepts: npm, package.json, sinopia
-
 Pre-reqs: command line, JavaScript, JSON
 
 ##Project Brief

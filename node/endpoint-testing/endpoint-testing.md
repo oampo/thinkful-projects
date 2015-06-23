@@ -1,8 +1,14 @@
-Level: Intermediate
-Time Estimate: 2 hours
-Topics: Testing API endpoints, Mocha, Chai, Handling JSON, API error codes
+title: Endpoint Testing
+description: Help Amazon redesign their website by writing and testing the API endpoint for adding vinyl records to their list of produts.
+duration: 2 hours
+date_implemented: 
+skill_level: Intermediate
+slug:
+tags: Node
 
-# Project Brief
+Concepts: Testing API endpoints, Mocha, Chai, Handling JSON, API error codes
+
+## Project Brief
 
 Amazon have finally decided to enter the 21st Century and redesign their site as a single page application.  You have been tasked with writing and testing the API endpoint for adding vinyl records to their list of products.
 
@@ -47,14 +53,14 @@ Importing the data from the old system is expected to be painful.  It is stored 
 * If a piece of information is missing (for example, a track does not have a title), then the endpoint should return a `422 Unprocessable Entity` error, with a description of which information is missing
 * If a piece of information has the wrong type (for example if the artist name is an integer), then the endpoint should return a `422 Unprocessable Entity` error, with a description of which information is incorrect
 
-# Milestones
+## Milestones
 
 1. Write a simply PUT endpoint which doesn't worry about error checking, and simply writes the JSON to a file.
 2. Write a test for the endpoint which sends some data to the endpoint, and checks to see whether the file has been written and contains the correct contents.  Take a look at [this lesson](https://courses.thinkful.com/node-001v4/lesson/2.3) for a guide to testing API endpoints using Mocha and Chai.
 3. Write some further tests which send different types of invalid data to the endpoint and check to see whether the appropriate errors are returned.
 4. Update your endpoint to make your tests pass.
 
-# Resources
+## Resources
 
 * For an introduction to creating APIs in Node, work through [this lesson](https://courses.thinkful.com/node-001v4/lesson/2.2)
 * Take a look at [how Twitter handle errors in their API](https://dev.twitter.com/overview/api/response-codes) for an example of a scheme for returning information about errors.
