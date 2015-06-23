@@ -1,5 +1,5 @@
 title: Error Creation Handling
-description: Implement error handling code using a Samsung TV troubleshooting manual. 
+description: Implement error handling for a Samsung TV. 
 duration: 1 hour
 date_implemented: 
 skill_level: Beginner

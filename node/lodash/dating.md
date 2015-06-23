@@ -1,5 +1,5 @@
 title: Functional Programming with Lodash
-description: 
+description: Use some of the most common Lodash methods to solve complex problems with simple code.
 duration: 4 hours
 date_implemented: 
 skill_level: Intermediate
