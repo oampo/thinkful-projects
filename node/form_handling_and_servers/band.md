@@ -1,5 +1,5 @@
 title: Form Handling and Servers
-description: Write an app to name your band, and give yourselves rock-star names
+description: Write an app that outputs band names based on a user's selected genre. To do so, you'll learn to set up a basic Express server to work with user input.
 duration: 3 hours
 date_implemented: 
 skill_level: Intermediate

@@ -1,5 +1,5 @@
 title: Asynchronous Programming
-description: Learn to avoid callback hell while processing a series of text files asynchronously. Use new features including promises, generators, and async.
+description: Learn to avoid callback hell while processing a series of text files asynchronously. Use new JavaScript features including promises, generators, and async.
 duration: 
 date_implemented: 
 skill_level: Intermediate

@@ -1,5 +1,5 @@
 title: Memory Leaks
-description: Find the memory leaks in a bidirectional-map implementation.
+description: Find and plug the memory leaks in a bidirectional-map implementation.
 duration: 45 minutes
 date_implemented: 
 skill_level: Intermediate
