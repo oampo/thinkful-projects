@@ -1,5 +1,5 @@
-title: External APIs
-description: 
+title: Space Jam: External APIs
+description: Use APIs to save the International Space Station.
 duration: 12 hours
 date_implemented: 
 skill_level: Intermediate
