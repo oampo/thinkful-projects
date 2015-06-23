@@ -1,4 +1,4 @@
-title: First Node Server
+title: Hello KnoBe: First Node Server
 description: Write your first Node server that returns different content depending on the URL
 duration: 2 hours
 date_implemented: 
