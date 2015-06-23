@@ -6,7 +6,7 @@ skill_level: Intermediate
 slug:
 tags: Node
 
-##Brief
+##Project Brief
 
 A noted ed-tech are rewriting the code which generates their curricula.  The curricula are stored on disk with the following structure:
 
