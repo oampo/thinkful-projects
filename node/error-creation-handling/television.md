@@ -1,5 +1,5 @@
 title: Error Creation Handling
-description: Implement error handling for a Samsung TV. 
+description: Create error objects to handle errors for a 'Smart TV' JavaScript API. 
 duration: 1 hour
 date_implemented: 
 skill_level: Beginner
