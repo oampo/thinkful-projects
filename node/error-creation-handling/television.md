@@ -1,4 +1,4 @@
-title: Error Creation Handling
+title: Working Remotely: Error Creation Handling
 description: Create error objects to handle errors for a 'Smart TV' JavaScript API. 
 duration: 1 hour
 date_implemented: 
