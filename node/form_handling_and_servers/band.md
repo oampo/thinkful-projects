@@ -1,4 +1,4 @@
-title: Form-ing a band: Form Handling and Servers
+title: Form-ing a Band: Form Handling and Servers
 description: Write an app that outputs band names based on a user's selected genre. To do so, you'll learn to set up a basic Express server to work with user input.
 duration: 3 hours
 date_implemented: 
