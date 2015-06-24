@@ -3,7 +3,7 @@ description: Create error objects to handle errors for a 'Smart TV' JavaScript A
 duration: 1 hour
 date_implemented: 
 skill_level: Beginner
-slug:
+slug: television
 tags: Node
 
 Concepts: Error handling, Callbacks, Inheritance

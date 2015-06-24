@@ -3,7 +3,7 @@ description: Use Node to interact with third-party API's to save the Internation
 duration: 12 hours
 date_implemented: 
 skill_level: Intermediate
-slug:
+slug: nasa
 tags: Node
 
 Concepts: Node, servers, Express, Form handling, HTTP Clients, Making requests to APIs, Templating, Asynchronous programming

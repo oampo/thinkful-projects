@@ -3,7 +3,7 @@ description: Learn to avoid callback hell while processing a series of text file
 duration: 2 hours
 date_implemented: 
 skill_level: Intermediate
-slug:
+slug: curriculum-structure
 tags: Node
 
 ##Project Brief
