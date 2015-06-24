@@ -1,3 +1,4 @@
+
 title: Record profits: Endpoint Testing
 description: Help Amazon refactor their codebase by writing and testing the API endpoint for adding vinyl records to their list of products.
 duration: 2 hours
