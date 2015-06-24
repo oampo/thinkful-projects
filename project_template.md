@@ -29,8 +29,8 @@ slug:                   <!-- Leave this empty -->
     Format resources as an unordered list. Include a resource for every:
         1. Core concept. This should be the primary article, tutorial, video, etc. the student uses to learn the core concepts the project covers.
         2. Concepts related to common pitfalls. What will the student probably need to google while working on this project?
-        3. Handy tools, tips, and pointers.
-        4. A practical application or story of someone tackling a similar problem
+        3. A practical application or story of someone tackling a similar problem.
+        4. (Optional) Tools, tips, and pointers.
 
     For each list item, include a hyperlinked title followed by 1 - 3 sentences describing why the concept and resource is important.
 -->
