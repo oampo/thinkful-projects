@@ -3,7 +3,7 @@ description: Write your first Node server that returns different content dependi
 duration: 2 hours
 date_implemented: 
 skill_level: Beginner
-slug: hello-knobe
+slug: jedi
 tags: Node
 
 Concepts: Node, servers, Express, request parameters, string concatenation, array slicing

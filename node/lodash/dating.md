@@ -3,7 +3,7 @@ description: Use some of the most common Lodash methods to solve complex problem
 duration: 4 hours
 date_implemented: 
 skill_level: Intermediate
-slug:
+slug: dating
 tags: Node
 
 Concepts: Functional styled JavaScript; Data management of Collections and Objects; Partial Application, Composition and Combinators

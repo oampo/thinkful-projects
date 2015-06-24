@@ -3,7 +3,7 @@ description: Create the next big thing. Build a simple social network to learn t
 duration: 12 hours
 date_implemented: 
 skill_level: Advanced
-slug:
+slug: thinkr
 tags: Node
  
 

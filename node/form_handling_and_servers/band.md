@@ -3,7 +3,7 @@ description: Write an app that outputs band names based on a user's selected gen
 duration: 3 hours
 date_implemented: 
 skill_level: Intermediate
-slug:
+slug: band
 tags: Node
 
 

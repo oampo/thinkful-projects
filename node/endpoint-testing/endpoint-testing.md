@@ -4,7 +4,7 @@ description: Help Amazon refactor their codebase by writing and testing the API 
 duration: 2 hours
 date_implemented: 
 skill_level: Intermediate
-slug:
+slug: endpoint-testing
 tags: Node
 
 ## Project Brief Part One

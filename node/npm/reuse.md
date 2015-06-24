@@ -1,9 +1,9 @@
 title: Power Pack: Packaging with npm
 description: Publish and use your own npm packages.
 duration: 4 hours
-date_implemented: 
+date_implemented: June 24, 2015
 skill_level: Intermediate
-slug:
+slug: reuse
 tags: Node
 
 
