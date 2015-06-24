@@ -1,9 +1,9 @@
-title: Power pack: packaging with npm
+title: Power Pack: Packaging with npm
 description: Publish and use your own npm packages.
 duration: 4 hours
-date_implemented: 
+date_implemented: June 24, 2015
 skill_level: Intermediate
-slug:
+slug: reuse
 tags: Node
 
 
@@ -12,11 +12,10 @@ Pre-reqs: command line, JavaScript, JSON
 
 ##Project Brief
 
-In order to reuse your code among all your projects, and allow others to use your code, you have to package your code in ...packages.  npm is the tool used to create and install packages into your application.  Once packages are installed, you can use the `require` function to include them in your code.  To get started with what npm has to offer, checkout [npm's screencasts](https://docs.npmjs.com/getting-started/what-is-npm) which teach you everything you need to know. 
+In order to reuse your code among all your projects, and allow others to use your code, you have to package your code in ...packages.  npm is the tool used to create and install packages into your application.  Once packages are installed, you can use the `require` function to include them in your code.  If you haven’t used npm before, start by working through the [“Getting Started”](https://docs.npmjs.com/) section 1 though 4 on npm’s docs. Learn what npm is, how to install and update npm, fix npm permissions, and install npm packages locally.
 
 ##Milestones
 
-* If you haven’t used npm before, start by working through the [“Getting Started”](https://docs.npmjs.com/) section 1 though 4 on npm’s docs. Learn what npm is, how to install and update npm, fix npm permissions, and install npm packages locally.
 * Create your own package called mini.
 * Create a second project called max.  This time you want to require mini inside of max, but you can't publish mini or max to the npm registry (they're both taken).  Use [npm link](https://docs.npmjs.com/cli/link) to include mini inside of max.
 * Now we want to create a private registry to host our max and mini packages.  [Using sinopia](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/) as your registry, publish max and mini.

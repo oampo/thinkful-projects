@@ -1,14 +1,14 @@
+title:                  Record Profits: Endpoint Testing  
+description:            Help Amazon refactor their codebase by writing and testing the API endpoint for adding vinyl records to their list of products.  
+duration:               2 hours  
+skill_level:            Intermediate  
+core_concepts:          Node API Endpoints, Endpoint Testing  
+prerequisite_concepts:  [To come]  
 
-title:                  Record Profits: Endpoint Testing
-description:            Help Amazon refactor their codebase by writing and testing the API endpoint for adding vinyl records to their list of products.
-duration:               2 hours
-skill_level:            Intermediate
-core_concepts:          Node API Endpoints, Endpoint Testing
-prerequisite_concepts:  [To come]
+tags:                   Node  
+date_implemented:       June 23, 2015  
+slug:                   endpoint-testing  
 
-tags:                   Node
-date_implemented:       [To come]
-slug:                   [To come]
 
 ## Project Brief
 

@@ -6,8 +6,8 @@ core_concepts:          Node, servers, Express, Form handling, HTTP Clients, Mak
 prerequisite_concepts:  Proficiency with JavaScript, Creating Node servers, HTML  
 
 tags:                   Node  
-date_implemented:       
-slug:                   
+date_implemented:       June 23, 2015  
+slug:                   nasa  
 
 
 ## Project Brief

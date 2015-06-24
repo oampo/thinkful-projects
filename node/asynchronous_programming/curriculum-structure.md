@@ -1,13 +1,14 @@
-title:                  Asyncful: Asynchronous Programming
-description:            Process a series of text files asynchronously while avoiding callback hell. Use new JavaScript features including promises, generators, and async.
-duration:               2 hours
-skill_level:            Intermediate
-core_concepts:          [To come]
-prerequisite_concepts:  [To come]
+title:                  Asyncful: Asynchronous Programming  
+description:            Learn to avoid callback hell while processing a series of text files asynchronously. Use new JavaScript features including promises, generators, and async.  
+duration:               2 hours  
+skill_level:            Intermediate  
+core_concepts:          [To come]  
+prerequisite_concepts:  [To come]  
 
-tags: Node
-date_implemented: 
-slug:
+tags:                   Node  
+date_implemented:       June 23, 2015  
+slug:                   curriculum-structure  
+
 
 ##Project Brief
 

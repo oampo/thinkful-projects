@@ -1,13 +1,13 @@
-title:                  The Social Notwork: Authentication and Routing
-description:            Create the next big thing. Build a simple social network to learn the basics of Node with Express. Set up authentication, work with a Mongo database, and learn how Node works with templating engines.
-duration:               12 hours
-skill_level:            Advanced
-core_concepts:          Node, servers, Express, MongoDB, Authentication, Templating
-prerequisite_concepts:  JavaScript fundamentals, MVC frameworks, Creating Node servers
+title:                  The Social Notwork: Authentication and Routing  
+description:            Create the next big thing. Build a simple social network to learn the basics of Node with Express. Set up authentication, work with a Mongo database, and learn how Node works with templating engines.  
+duration:               12 hours  
+skill_level:            Advanced  
+core_concepts:          Node, servers, Express, MongoDB, Authentication, Templating  
+prerequisite_concepts:  JavaScript fundamentals, MVC frameworks, Creating Node servers  
 
-tags:                   Node
-date_implemented:       [To come]
-slug:                   [To come]
+tags:                   Node  
+date_implemented:       June 23, 2015  
+slug:                   thinkr  
 
 
 ##Project Brief

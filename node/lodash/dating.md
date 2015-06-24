@@ -6,8 +6,8 @@ core_concepts:          Functional styled JavaScript; Data management of Collect
 prerequisite_concepts:  [To come]  
 
 tags:                   Node  
-date_implemented:       [To come]  
-slug:                   [To come]  
+date_implemented:       June 23, 2015  
+slug:                   dating  
 
 
 ## Project Brief

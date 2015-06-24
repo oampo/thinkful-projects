@@ -6,8 +6,8 @@ core_concepts:          Node, servers, Express, form handling
 prerequisite_concepts:  Proficient with JavaScript, Creating Node servers  
 
 tags:                   Node
-date_implemented:       [To come]  
-slug:                   [To come]  
+date_implemented:       June 23, 2015  
+slug:                   band  
 
 
 ##Project Brief

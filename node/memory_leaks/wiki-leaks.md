@@ -1,9 +1,9 @@
 title: Tricky Leaks: Memory Leaks
 description: Find and plug the memory leaks in a bidirectional-map implementation.
 duration: 45 minutes
-date_implemented: 
+date_implemented: June 23, 2015
 skill_level: Intermediate
-slug:
+slug: wiki-leaks
 tags: Node
 
 

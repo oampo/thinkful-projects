@@ -5,10 +5,9 @@ skill_level:            Beginner
 core_concepts:          Error handling, Callbacks, Inheritance
 prerequisite_concepts:  [To come]
 
-
 tags: Node
-date_implemented:       [To come]
-slug:                   [To come]
+date_implemented:       June 23, 2015
+slug:                   television
 
 
 ## Project Brief
