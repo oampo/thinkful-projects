@@ -1,7 +1,7 @@
 title: Space Jam: Save NASA Using External API's
 description: Use Node to interact with third-party API's to save the International Space Station.
 duration: 12 hours
-date_implemented: 
+date_implemented: June 23, 2015
 skill_level: Intermediate
 slug: nasa
 tags: Node
