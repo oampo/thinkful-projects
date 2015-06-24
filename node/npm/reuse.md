@@ -1,4 +1,4 @@
-title: Power pack: packaging with npm
+title: Power Pack: Packaging with npm
 description: Publish and use your own npm packages.
 duration: 4 hours
 date_implemented: 
