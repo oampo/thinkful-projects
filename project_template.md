@@ -20,15 +20,15 @@ slug:                   <!-- Leave this empty -->
 
 ### Milestone 1: [title]
 
-[Milestone 1 content]
+* [Milestone 1 content]
 
 ### Milestone 2: [title]
 
-[Milestone 2 content]
+* [Milestone 2 content]
 
 ### Milestone 3: [title]
 
-[Milestone 3 content]
+* [Milestone 3 content]
 
 ## Resources
 <!--
