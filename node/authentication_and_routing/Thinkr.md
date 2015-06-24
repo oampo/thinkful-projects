@@ -20,6 +20,8 @@ However there is one small hitch.  A disgruntled TechCrunch journalist has writt
 
 ##Milestones
 
+### Milestone 1: Authentication, writing and reading thoughts
+
 To secure an IPO of $30 billion your backend should:
 
 * Allow users to sign up and log in
@@ -27,11 +29,14 @@ To secure an IPO of $30 billion your backend should:
 * Allow users to post messages consisting of 4 characters or fewer.  Posts longer than 4 characters are considered a thought crime, and should respond with an appropriate error message.
 * Show the last 20 Thoughts of a specific user
 
+### Milestone 2: Following users and a timeline
 
 For a $50 billion IPO your backend should:
 
 * Allow users to follow and unfollow other users
 * Show users the last 100 thoughts from the users who they follow
+
+### Milestone 3: Hashtags and trending thoughts
 
 For a $100 billion IPO your backend should:
 
