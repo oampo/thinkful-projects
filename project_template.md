@@ -12,11 +12,11 @@ date_implemented:       <!-- Leave this empty -->
 slug:                   <!-- Leave this empty -->  
 
 
-## Project brief
+## Project Brief
 <!-- Format your project brief in paragraphs.  Be creative! -->
 
 ## Milestones
-<!-- Format milestones as ordered h3's.  Each milestone h3 should include a short title. Below the h3 describe clear steps to achieve the milestone with paragraphs or an ordered list. -->
+<!-- Format milestones as ordered h2's.  Each milestone h2 should include a short title. Below the h2 describe clear steps to achieve the milestone with paragraphs or an ordered list. -->
 
 ### Milestone 1: [title]
 
@@ -50,5 +50,5 @@ To complete this project, you'll want to be familiar with the following concepts
 ## Footnotes
 <!-- The footnote section is optional. You're welcome to include anything here you like, just be sure info here doesn't *really* belong in one of the other sections. -->
 
-## Example solution
+## Example Solution
 <!-- Link to an example solution, preferably on GitHub -->
