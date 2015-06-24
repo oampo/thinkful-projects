@@ -16,6 +16,7 @@ In order to reuse your code among all your projects, and allow others to use you
 
 ##Milestones
 
+* If you haven’t used npm before, start by working through the [“Getting Started”](https://docs.npmjs.com/) section 1 though 4 on npm’s docs. Learn what npm is, how to install and update npm, fix npm permissions, and install npm packages locally.
 * Create your own package called mini.
 * Create a second project called max.  This time you want to require mini inside of max, but you can't publish mini or max to the npm registry (they're both taken).  Use [npm link](https://docs.npmjs.com/cli/link) to include mini inside of max.
 * Now we want to create a private registry to host our max and mini packages.  [Using sinopia](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/) as your registry, publish max and mini.

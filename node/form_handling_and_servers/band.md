@@ -1,4 +1,4 @@
-title: Form-ing a band: Form Handling and Servers
+title: Form-ing a Band: Form Handling and Servers
 description: Write an app that outputs band names based on a user's selected genre. To do so, you'll learn to set up a basic Express server to work with user input.
 duration: 3 hours
 date_implemented: 
@@ -16,7 +16,9 @@ You've grown your [hair long](http://www.bbc.co.uk/staticarchive/ba447cda441cdf1
 
 But a great band is nothing without a great band name.  Would Megadeth have sold so many albums if they were called Medium-sized-deth?  I think not.  And who wants to spend the time thinking of a great name, when you can get a computer to do the hard work for you?
 
-##Milestones
+## Milestones
+
+### Milestone 1: Creating the band name
 
 For a gig in the back room of the local bar you should write an app which:
 
@@ -26,10 +28,14 @@ For a gig in the back room of the local bar you should write an app which:
     - This can be done by adding together random start and end portions.  For example, for country the start part could be "The Ol' Time", "The Foggy Mountain", or "The Whiskey Drinkin'", and the end part could be "Hillbillies", "Boys", or "Bluegrass Band".  This would give band names such as "The Whisky Drinkin' Hillbillies", or "The Foggy Mountain Bluegrass Band".
 * A results page should show the band name which you've generated
 
+### Milestone 2: Give yourselves pseudonyms
+
 For an 11AM slot at the Isle of Lucy Jazz-Blues Festival your app should:
 
 * Generate and display suitable pseudonyms for each member of a [power trio](http://en.wikipedia.org/wiki/Power_trio).
     - You can use a similar technique to the genre generation using first and last names.  So for example a first name could be "Drinkin' Willie", and the last name could be "McGraw III", to give the name "Drinkin' Willie McGraw III".
+
+### Milestone 3: More flexible band lineups
 
 To sell out three nights at Madison Square Garden your app should:
 
