@@ -1,4 +1,4 @@
-title: Asynchronous Programming
+title: Asyncful: Asynchronous Programming
 description: Learn to avoid callback hell while processing a series of text files asynchronously. Use new JavaScript features including promises, generators, and async.
 duration: 
 date_implemented: 

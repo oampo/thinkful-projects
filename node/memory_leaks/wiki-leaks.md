@@ -1,4 +1,4 @@
-title: Memory Leaks
+title: Tricky Leaks: Memory Leaks
 description: Find and plug the memory leaks in a bidirectional-map implementation.
 duration: 45 minutes
 date_implemented: 
