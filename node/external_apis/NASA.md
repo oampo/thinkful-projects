@@ -18,6 +18,9 @@ The Administrator of NASA took charge of the situation immediately, realizing th
 The cannon was built in record time coming in only three years late and $5 billion over budget.  Now all that needs to be done is to work out when the ISS is going to be overhead, and fire the cannon.  And that is where you have been called in.
 
 ##Milestones
+
+### Milestone 1: Finding out when the ISS passes overhead
+
 To save the Administrator's bacon you need to write an app which:
 
 * Has a simple HTML form with two inputs, one for latitude and one for longitude
@@ -27,11 +30,15 @@ To save the Administrator's bacon you need to write an app which:
     - Convert the risetime to a human-readable date and time using the [JavaScript Date object](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Date)
     - Display the date and time of the next passes of the ISS in a results page
 
+### Milestone 2: Converting a location to latitude/longitude
+
 To secure the Administrator's job for the next 5 years your app should:
 
 * Take the name of a location rather than a latitude/longitude pair
 * Use the [MapQuest Nominatim API](http://open.mapquestapi.com/nominatim/) to search for the location
 * Take the longitude and latitude of the best match from Nominatim, and use that as the input for the Open Notify API
+
+### Milestone 3: Checking the weather
 
 To get the Administrator a healthy raise at his next pay review your app should:
 
