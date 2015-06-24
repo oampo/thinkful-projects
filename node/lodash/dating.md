@@ -1,7 +1,7 @@
 title: OKCoding: Functional Programming with Lodash
 description: Use some of the most common Lodash methods to solve complex problems with simple code. This series of exercises will get you comfortable with the library and show off its strengths. 
 duration: 4 hours
-date_implemented: 
+date_implemented: June 23, 2015
 skill_level: Intermediate
 slug: dating
 tags: Node

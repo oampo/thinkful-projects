@@ -1,7 +1,7 @@
 title: Working Remotely: Error Creation Handling
 description: Create error objects to handle errors for a 'Smart TV' JavaScript API. 
 duration: 1 hour
-date_implemented: 
+date_implemented: June 23, 2015
 skill_level: Beginner
 slug: television
 tags: Node

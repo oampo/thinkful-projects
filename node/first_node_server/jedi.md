@@ -1,7 +1,7 @@
 title: Hello KnoBe: First Node Server
 description: Write your first Node server that returns different content depending on the URL.
 duration: 2 hours
-date_implemented: 
+date_implemented: June 23, 2015
 skill_level: Beginner
 slug: jedi
 tags: Node
