@@ -27,14 +27,18 @@ If you haven’t used npm before, you should learn what npm is, how to install a
 ### Milestone 2: Installing Existing Packages
 
 [To come]
+
 [Should include global installation of [How to npm](https://github.com/npm/how-to-npm), a package that helps you package. Perhaps other packages?]
 
 ### Milestone 3: Creating and Publishing New Packages
 
 [To come]
+
 [Create two packages.  Package2 should include Package1 using [npm link](https://docs.npmjs.com/cli/link).]
+
 [Should we use a stripped-down version of the tfcommons package to provide a sample package if they don't want to build their own?]
-[Publish your packages to a private registry with [sinopia](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/)
+
+[Publish your packages to a private registry with [sinopia](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/)]
 
 ##Additional Resources
 
