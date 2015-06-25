@@ -1,11 +1,13 @@
-title: Hello KnoBe: First Node Server
-description: Write your first Node server that returns different content depending on the URL.
-duration: 2 hours
-date_implemented: June 23, 2015
-skill_level: Beginner
+title:                  Hello KnoBe: First Node Server  
+description:            Write your first Node server that returns different content depending on the URL.  
+duration:               2 hours  
+skill_level:            Beginner  
 core_concepts:          Node, servers, Express, request parameters, string concatenation, array slicing  
-prerequisite_concepts:  Proficiency with JavaScript
-slug: jedi
+prerequisite_concepts:  Proficiency with JavaScript  
+
+tags:                   Node  
+date_implemented:       June 23, 2015  
+slug:                   jedi  
 
 
 ## Project Brief
