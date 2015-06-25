@@ -7,7 +7,7 @@ prerequisite_concepts:  [To come]
 
 tags:                   Node  
 date_implemented:       June 23, 2015  
-slug:                   curriculum-structure  
+slug:                   asynchronous-programming  
 
 
 ##Project Brief

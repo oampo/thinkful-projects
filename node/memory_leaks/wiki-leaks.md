@@ -7,7 +7,7 @@ prerequisite_concepts:  Proficient with JavaScript.  Understanding of how garbag
 
 tags:                   Node  
 date_implemented:       June 23, 2015  
-slug:                   wiki-leaks  
+slug:                   node-memory-leaks  
 
 
 ## Project Brief

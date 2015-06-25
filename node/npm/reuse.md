@@ -5,7 +5,7 @@ skill_level:            Intermediate
 core_concepts:          installing npm packages, creating npm packages, sinopia  
 prerequisite_concepts:  command line, JavaScript, JSON, Git, GitHub  
 
-slug:                   reuse  
+slug:                   packaging-with-npm  
 tags:                   Node  
 date_implemented:       June 24, 2014  
 

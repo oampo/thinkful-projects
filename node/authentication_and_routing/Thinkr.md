@@ -7,7 +7,7 @@ prerequisite_concepts:  JavaScript fundamentals, MVC frameworks, Creating Node s
 
 tags:                   Node  
 date_implemented:       June 23, 2015  
-slug:                   thinkr  
+slug:                   authentication-and-routing  
 
 
 ##Project Brief
