@@ -18,18 +18,29 @@
 - Intermediate
 - TBD
 
+### Single page apps: Client-side Routing and Views
+- Intermediate 
+- TBD
+
 ### Angular Modules
 - Beginner
 - TBD
 
+### Dependency Injection
+- Intermediate 
+- TBD
+
 ### $http and Promises: Working with API's
-- 
-- 
+- Intermediate
+- TBD
 
 ### Testing Angular Apps
 - Intermediate
 - Write unit tests and end-to-end tests for your Angular apps using Jasmine and Karma, covering your entire application.
 
+### Performance with Angular
+- Advanced
+- TBD
 
 ### Angular 2.0
 - Intermediate
