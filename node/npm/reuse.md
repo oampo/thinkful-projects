@@ -12,11 +12,11 @@ date_implemented:       June 24, 2014
 
 ## Project Brief
 
-You just started as the first full stack developer at Initech, a mission-driven company billed as "Uber for Financial Services Consulting". Over the last two years of proving product-market fit they've built a monolitic Python application. Now they're starting to scale and your job is to convert to a microservices architecture.
+You just started as the first full stack developer at Initech, a mission-driven company billed as "Uber for Financial Services Consulting". Over the last two years of proving product-market fit they've built a monolitic Python application. Now they're ready to scale and your job is to convert to a microservices architecture.
 
 As you review a 5,004 line legacy `user/models.py` file your eyes glaze over and you find yourself daydreaming about code reuse, comprehensible modules and, well, JavaScripting all the things.
 
-Several of your microservices will need to reuse the same code, so for this project you'll create and publish your internal libraries as Node packages to [sinopi](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/), a private Node registry.
+Several of your microservices will need to reuse the same code, so for this project you'll create and publish your internal common libraries as Node packages to [sinopi](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/), a private Node registry.
 
 ## Milestones
 
@@ -33,6 +33,7 @@ If you haven’t used npm before, you should learn what npm is, how to install a
 
 [To come]
 [Create two packages.  Package2 should include Package1 using [npm link](https://docs.npmjs.com/cli/link).]
+[Should we use a stripped-down version of the tfcommons package to provide a sample package if they don't want to build their own?]
 [Publish your packages to a private registry with [sinopia](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/)
 
 ##Additional Resources
