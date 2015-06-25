@@ -7,7 +7,7 @@ prerequisite_concepts:  Proficiency with JavaScript, Creating Node servers, HTML
 
 tags:                   Node  
 date_implemented:       June 23, 2015  
-slug:                   nasa  
+slug:                   external-apis-in-node  
 
 
 ## Project Brief

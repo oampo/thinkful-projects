@@ -7,7 +7,7 @@ prerequisite_concepts:  Proficiency with JavaScript
 
 tags:                   Node  
 date_implemented:       June 23, 2015  
-slug:                   jedi  
+slug:                   first-node-server  
 
 
 ## Project Brief

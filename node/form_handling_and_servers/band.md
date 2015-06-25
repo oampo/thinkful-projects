@@ -7,7 +7,7 @@ prerequisite_concepts:  Proficient with JavaScript, Creating Node servers
 
 tags:                   Node
 date_implemented:       June 23, 2015  
-slug:                   band  
+slug:                   form-handling-and-servers  
 
 
 ##Project Brief
