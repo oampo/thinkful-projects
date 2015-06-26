@@ -18,6 +18,8 @@ You're the lead developer for Java Meets Bagel, a service that takes a user's pe
 
 After a chat with the lead architect, you agreed on a series of unit tests that will guide the functions you should write. Use a lodash method in each function – in each case, doing so will save you time and hassle. Each function will either manage data with Node (used to respond to API requests) or will make a request from the client using AJAX.
 
+Functional programming will help improve the consistency of how your applications perform whilst improving their testability and code semantics. To read more about functional programming take a look at [this](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/) article.
+
 ## Milestones
 
 ### Milestone 1: Getting to Know You
@@ -51,7 +53,9 @@ Don't sneak a peak at the `/solutions/` folder until after you've refactored you
 
 ## Resources
 
-[Lodash Intro Video](https://egghead.io/lessons/core-javascript-introduction-to-lodash) - A short video introducing lodash/underscore and giving a quick example of chaining.
+[Thinkful Lodash Course](https://reader.thinkful.com/rapid-lodash/918/course-overview) - A video series going through various methods and techniques using lodash.
+
+[Don't be scared of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/) - An in detail article describing functional programming.
 
 [Lodash Documentation](https://lodash.com/docs) - The fluffing lodash manual.
 

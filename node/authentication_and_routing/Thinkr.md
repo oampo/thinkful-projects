@@ -49,13 +49,13 @@ For a $100 billion IPO your back-end should:
 To complete this project, you'll want to be familiar with the following concepts:
 
 - [Authentication](https://courses.thinkful.com/oreilly-node-express/subsection/1.22.2): Authentication refers to knowing who is who and verifying users' identities. You'll want to be able to securely store usernames, passwords, and email addresses for this project. As mentioned, using Passport.js will save you time and provide best practices for user management.
-- [GET Requests](https://courses.thinkful.com/node-001v4/assignment/2.2.2): A GET request is a web request soliciting data.
-- [POST Requests](https://courses.thinkful.com/node-001v4/assignment/2.2.3): A POST request is the kind of web request we use when we actually want to submit information to the web for it to be stored or acted upon, such as when we want to add a new thought.
+- [GET Requests](https://courses.thinkful.com/tfl-001v1/assignment/2.2.2): A GET request is a web request soliciting data.
+- [POST Requests](https://courses.thinkful.com/tfl-001v1/assignment/2.2.3): A POST request is the kind of web request we use when we actually want to submit information to the web for it to be stored or acted upon, such as when we want to add a new thought.
 - [Saving Time with Express](https://courses.thinkful.com/oreilly-node-express/chapter/1.7): This chapter introduces setting up a server with Express. Express will help you define the internal structure of your application, define which pages you need, and what each page does.
 - [Form Handling](https://courses.thinkful.com/oreilly-node-express/chapter/1.12): This chapter will teach you how to collect, receive and validate information from users.
-- [Introduction to MongoDB](https://courses.thinkful.com/node-001v4/assignment/3.1.1): Using MongoDB as the database will help you keep track of all users, thoughts and hashtags in Thinkr.
-- [Introduction to Mongoose](https://courses.thinkful.com/node-001v4/assignment/3.1.2): Mongoose is the most popular Object Document Mapper for MongoDB. It'll help you model and validate your data more efficiently. 
-- [Deploying to Heroku](https://courses.thinkful.com/node-001v4/project/2.2.5): For a simple app like this one, deploying to Heroku is the fastest way to get it live on the web. Heroku is a layer of abstraction on top of Amazon Web Services that lets you avoid setting up your own server from scratch.
+- [Introduction to MongoDB](https://courses.thinkful.com/tfl-001v1/assignment/3.1.1): Using MongoDB as the database will help you keep track of all users, thoughts and hashtags in Thinkr.
+- [Introduction to Mongoose](https://courses.thinkful.com/tfl-001v1/assignment/3.1.2): Mongoose is the most popular Object Document Mapper for MongoDB. It'll help you model and validate your data more efficiently. 
+- [Deploying to Heroku](https://courses.thinkful.com/tfl-001v1/project/2.2.5): For a simple app like this one, deploying to Heroku is the fastest way to get it live on the web. Heroku is a layer of abstraction on top of Amazon Web Services that lets you avoid setting up your own server from scratch.
 - Bonus: [Templating with Handlebars](https://courses.thinkful.com/oreilly-node-express/chapter/1.11): Handlebars (or Jade, which is introduced in the same chapter) is the most popular templating engine used with Node. You can use it to easily include dynamic information (new thoughts or hashtags) in your HTML templates.
 
 ## Example Solution
