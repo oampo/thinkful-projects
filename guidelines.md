@@ -12,7 +12,7 @@ Each project hones in on just one or two core concepts and requires the student 
 
 Get a taste for awesome projects with these examples:
 
-- Building your first [hello jedi](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/first_node_server/jedi.md) with Node and Express.
+- Building your first [Node server](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/first_node_server/jedi.md) with Node and Express to greet Jedi.
 
 - Fixing a [leaky application](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/memory_leaks/wiki-leaks.md) to understand memory leaks and profiling by.
 
@@ -25,7 +25,7 @@ Start your own project by customizing this [project template](https://github.com
 Each project brief requires the following [metadata](http://hiltmon.com/blog/2012/06/18/markdown-metadata/) fields at the top of the file:
 
 - **Title**: The title of your project. Your title should be engaging and descriptive.  It should communicate (1) your core concepts and (2) what kind of project the student will build.
-For example, the title [OKCoding: Functional Programming with Lodash](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/lodash/dating.md) includes the core concepts (Lodash, functional programming) and a hint about the project ("OKCoding", a play on dating apps).
+For example, the title "[OKCoding: Functional Programming with Lodash](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/lodash/dating.md)" includes core concepts (Lodash, functional programming) and a hint about the project ("OKCoding", a play on dating apps).
 
 - **Description**: A one to three sentence description of your project. This is what users will read when deciding whether to start working on your project. For example, the [OKCoding: Functional Programming with Lodash](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/lodash/dating.md) description is: "Use some of the most common Lodash methods to solve complex problems with simple code. This series of exercises will get you comfortable with the library and show off its strengths." If you chose your project from the [topics.md file](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/topics.md) you can simply plug in the description from there.
 
@@ -39,7 +39,7 @@ For example, the title [OKCoding: Functional Programming with Lodash](https://gi
 
 ### Project Brief
 
-Your project brief sets the stage for the student. Have fun with the scenario for your project. Maybe the student should imagine they are [working for NASA](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/external_apis/NASA.md) to solve problems in space. Or maybe they're working for Google to serve you more ads. You should provide realistic context with a tangible outcome in a way that's fun to read. This is your chance to be creative.
+Your project brief sets the stage for the student. Have fun with the scenario. Maybe the student should imagine they are [working for NASA](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/external_apis/NASA.md) to solve problems in space. Or maybe they're working for Google to serve you more ads. You should provide realistic context with a tangible outcome in a way that's fun to read. This is your chance to be creative.
 
 The brief should also explain precisely what the final product does. If there's a visual output, show an example of what it could look like; if not describe the functionality in clear terms, such as ["visiting /jedi/Beyonce/Knowles should respond with ‘Hello KnoBe.'"](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/first_node_server/jedi.md).  By the time students finish reading this section the end goal of the project should be clear.
 
@@ -51,7 +51,7 @@ Give clear steps to complete or requirements to implement for each milestone. Us
 
 For each step, link to content that explains the concepts, tools, or skills the student needs to complete that step.  For example, you could close a milestone with language like: "if you need help with either step, review [Simple Express servers and Request parameters](https://courses.thinkful.com/node-001v4/assignment/2.1.1)."
 
-Students should be able to complete individual milestones in a single sitting. Your first milestone, in particular, should take half an hour or less to complete. Big, complex initial milestones are a sign that the project is overly complex too difficult for students to get started with.
+Students should be able to complete individual milestones in a single sitting. Your first milestone, in particular, should take half an hour or less to complete. Big, complex initial milestones are a sign that the project is overly complex or too difficult for students to begin.
 
 You can increase the difficulty of a project by adding bonus milestones. This helps keep the core project simple and is a great way for students to personalize their project or explore related concepts.  See [Space Jam: Save NASA Using External API's](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/external_apis/NASA.md) for a great example of layering complexity with bonus milestones.
 
@@ -61,7 +61,7 @@ You should wrap up your project with a list of useful resources that provide con
 
 For example, a project like [Tracking Down Memory Leaks in Node Apps](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/memory_leaks/wiki-leaks.md) includes a book chapter on references in JavaScript, an article on Node modules for detecting memory leaks, documentation on memory profiling in Chrome, and a postmortem article from Netflix on chasing down memory leaks in their own Node app. Each resource should have one to three sentences explaining *what* the resource is and *why* it's useful.
 
-When linking to resources, you can link to Thinkful course content, content we've licensed (a list of available content can be found [here](https://docs.google.com/spreadsheets/d/1Zgx5ObMFN3Xl8Q3ZozLvfz6SN-yPXjvnmt4FGEnn2ts/edit#gid=0), official documentation, or resources from around the web like high quality blog posts and articles.  Use the most appropriate content possible, but keep in mind that content we've developed or licensed is generally preferred as we can guarantee quality and reliability.
+When linking to resources, you can link to Thinkful course content, content we've licensed (see this [list](https://docs.google.com/spreadsheets/d/1Zgx5ObMFN3Xl8Q3ZozLvfz6SN-yPXjvnmt4FGEnn2ts/edit#gid=0) of available content), official documentation, or resources from around the web like high quality blog posts and articles.  Use the most appropriate content possible, but keep in mind that content we've developed or licensed is generally preferred as we can guarantee quality and reliability.
 
 ### Example Solution
 
