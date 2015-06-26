@@ -40,7 +40,7 @@ To help you out the chief engineer has printed out a copy of the troubleshooting
 ## Milestones
 
 1. Create custom error objects to represent each of the different types things which can go wrong with your TV.  The error object should inherit from objects which represent the "Error classifications", which should themselves inherit from the `Error` object.  If you are unsure of how to create custom error types, take a look at the [MDN documentation for the `Error` object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error).
-2. Update the `turnOn`, `switchChannel`, and `watch` methods of [the API](gist) to use your error objects, and run the callback or errback methods as appropriate.  For more information on callbacks take a look at [this assignment on the callback pattern](https://courses.thinkful.com/node-001v4/assignment/4.2.2).
+2. Update the `turnOn`, `switchChannel`, and `watch` methods of [the API](gist) to use your error objects, and run the callback or errback methods as appropriate.  For more information on callbacks take a look at [this assignment on the callback pattern](https://courses.thinkful.com/tfl-001v1/assignment/4.2.2).
 3. Write a small test application which tries to turn on the TV, switch channels, and then watch the TV.  If any of the stages fail then you should call the function which attempts the fix described in the manual, then retry the stage.
 
 ## Additional Resources
