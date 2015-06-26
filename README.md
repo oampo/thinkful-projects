@@ -1,1 +1,1 @@
-Projects for TFL. Submissions welcome.
+Projects for TFL. Submissions welcome. Read about [project guidelines](https://github.com/Thinkful-Ed/thinkful-projects/tree/master), choose a [topic](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/topics.md), and customize the [project template](https://github.com/Thinkful-Ed/thinkful-projects/blob/preview/project_template.md).

@@ -1,31 +1,31 @@
-title: Space Jam: Save NASA Using External API's
-description: Use Node to interact with third-party API's to save the International Space Station.
-duration: 12 hours
-date_implemented: 
-skill_level: Intermediate
-slug:
-tags: Node
+title:                  Space Jam: Save NASA Using External API's  
+description:            Use Node to interact with third-party API's to save the International Space Station.  
+duration:               12 hours  
+skill_level:            Intermediate  
+core_concepts:          Node, servers, Express, Form handling, HTTP Clients, Making requests to APIs, Templating, Asynchronous programming  
+prerequisite_concepts:  Proficiency with JavaScript, Creating Node servers, HTML  
 
-Concepts: Node, servers, Express, Form handling, HTTP Clients, Making requests to APIs, Templating, Asynchronous programming
-Pre-reqs: Proficient with JavaScript, Creating Node servers, HTML
+tags:                   Node  
+date_implemented:       June 23, 2015  
+slug:                   external-apis-in-node  
 
-##Project Brief
 
-Following the latest round of budget cuts, NASA were forced to "dehire" a number of members of staff.  As the last engineer packed her box and headed for the exit, she helpfully pointed out to her project manager that she was the last person at NASA who knew the location of the International Space Station (ISS).  And that the GPS on board the ISS was on the fritz.
+## Project Brief
 
-The Administrator of NASA took charge of the situation immediately, realizing the damage that losing $150 billion worth of space station could do to his reputation, not to mention his retirement fund.  Rather than crunching the numbers to work out where the ISS had got to, the Administrator ordered that a giant cannon should be built to fling a new GPS to the waiting ISS crew.
+Following the latest round of budget cuts, NASA was forced to "dehire" a number of members of staff.  As the last engineer packed her box and headed for the exit, she helpfully pointed out to her project manager that she was the last person at NASA who knew the location of the International Space Station (ISS).  And that the GPS on board the ISS was on the fritz.
 
-The cannon was built in record time coming in only three years late and $5 billion over budget.  Now all that needs to be done is to work out when the ISS is going to be overhead, and fire the cannon.  And that is where you have been called in.
+The Administrator of NASA took charge of the situation immediately, realizing the damage that losing $150 billion worth of space station could do to his reputation, not to mention his retirement fund.  Rather than crunching the numbers to work out where the ISS had got to, the Administrator ordered the construction of a giant cannon to fling a new GPS to the waiting ISS crew.
 
-##Milestones
+The cannon was built in record time, coming in only three years late and $5 billion over budget.  Now all that needs to be done is to work out when the ISS is going to be overhead, and fire the cannon.  And that is where you have been called in.
 
-### Milestone 1: Finding out when the ISS passes overhead
+## Milestones
+
+### Milestone 1: Determine when the ISS passes overhead
 
 To save the Administrator's bacon you need to write an app which:
 
-* Has a simple HTML form with two inputs, one for latitude and one for longitude
-* When the form is submitted it should use Node.js to make a request to the [Open Notify ISS Pass Time API](http://open-notify.org/Open-Notify-API/ISS-Pass-Times/)
-    - The request should use the latitude and longitude entered in the form
+* Has a simple HTML form with two inputs, one for latitude and one for longitude.
+* When the form is submitted it should use Node.js to make a request to the [Open Notify ISS Pass Time API](http://open-notify.org/Open-Notify-API/ISS-Pass-Times/) with the supplied latitude and longitude.
 * When the API responds your app should:
     - Convert the risetime to a human-readable date and time using the [JavaScript Date object](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Date)
     - Display the date and time of the next passes of the ISS in a results page
@@ -34,18 +34,18 @@ To save the Administrator's bacon you need to write an app which:
 
 To secure the Administrator's job for the next 5 years your app should:
 
-* Take the name of a location rather than a latitude/longitude pair
-* Use the [MapQuest Nominatim API](http://open.mapquestapi.com/nominatim/) to search for the location
-* Take the longitude and latitude of the best match from Nominatim, and use that as the input for the Open Notify API
+* Take the name of a location rather than a latitude/longitude pair.
+* Use the [MapQuest Nominatim API](http://open.mapquestapi.com/nominatim/) to search for the location.
+* Take the longitude and latitude of the best match from Nominatim, and use that as the input for the Open Notify API.
 
 ### Milestone 3: Checking the weather
 
 To get the Administrator a healthy raise at his next pay review your app should:
 
-* Use the [Yahoo Weather API](https://developer.yahoo.com/weather/) to retrieve the weather conditions for the location on the potential firing dates
-* Display the forecasts on the results page
+* Use the [Yahoo Weather API](https://developer.yahoo.com/weather/) to retrieve the weather conditions for the location on the potential firing dates.
+* Display the forecasts on the results page.
 
-##Resources
+## Resources
 
 To complete this project, you'll want to be familiar with the following concepts:
 
@@ -56,3 +56,7 @@ To complete this project, you'll want to be familiar with the following concepts
 - [Templating with Handlebars](https://courses.thinkful.com/oreilly-node-express/chapter/1.11): Handlebars (or Jade, which is introduced in the same chapter) is the most popular templating engine used with Node. You can use it to easily include dynamic information (new thoughts or hashtags) in your HTML templates.
 - [Running async tasks in series](https://courses.thinkful.com/node-001v4/project/4.2.4): How to run one asynchronous task after another has finished
 - [Running async tasks in parallel](https://courses.thinkful.com/node-001v4/assignment/4.3.1): How to run asynchronous tasks simultaneously, continuing when they have all finished.
+
+## Example Solution
+
+[To come]
