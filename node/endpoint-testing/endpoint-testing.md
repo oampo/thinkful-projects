@@ -12,7 +12,7 @@ slug:                   node-endpoint-testing
 
 ## Project Brief
 
-Amazon have finally decided to enter the 21st Century and redesign their site as a single page application.  You have been tasked with writing and testing the API endpoint for adding vinyl records to their list of products.
+Amazon has finally decided to enter the 21st Century and redesign their site as a single page application.  You have been tasked with writing and testing the API endpoint for adding vinyl records to their list of products.
 
 ### Creating the Endpoint
 
@@ -48,7 +48,7 @@ The endpoint should receive JSON data in the following format:
 }
 ```
 
-In a frankly surprising move Amazon have decided that a flat-file database is the best way to store hundreds of millions of products, so your endpoint simply needs to write the JSON data out to a file.
+In a frankly surprising move Amazon has determined that a flat-file database is the best way to store hundreds of millions of products, so your endpoint simply needs to write the JSON data out to a file.
 
 
 ### Testing the Endpoint
