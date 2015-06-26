@@ -16,24 +16,26 @@ The new Samsung Smart TV features 4-D images, 8-D sound, hyper-HD technology, an
 
 To help you out the chief engineer has printed out a copy of the troubleshooting section of the user manual.  You should base the API's error handling on this manual:
 
-> If your television will not switch on you may have one of the following problems:
->
-> * *Unable to power television on (I)* - If you are unable to power on your television you have a faulty plug socket.  Insert a metal fork or thin conductive object into the socket.
->     - Error classification: TV Error
-> * *Unable to power television on (II)* - If you are unable to power on your television then the power switch is broken.  Hotwire the switch, while pretending that your television is a 1964 Ford Cortina.
->     - Error classification: TV Error
-> * *Unable to Change Channels (I)* - If you are unable to change channels then you have lost the remote control.  Vacate the sofa and search for it.
->     - Error classification: Environment error
-> * *Unable to Change Channels (II)* - If you are unable to change channels then you have removed the batteries in order to power your [wall-mounted singing bass ornament](https://www.youtube.com/watch?v=XhB6ifx1B4A).  Replace the batteries.
->     - Error classification: Remote error
-> * *Image is fuzzy or distorted (I)* - If your television shows a fuzzy or distorted image then your aerial socket has snapped off.  Insert a metal fork or thin conductive object into the socket.
->     - Error classification: TV Error
-> * *Image is fuzzy or distorted (II)* - If your television shows a fuzzy or distorted image then your aerial has no reception.  Climb onto your roof and wiggle the aerial until the image improves.
->     - Error classification: Environment error
->
-> Before attempting to solve any TV errors you should give your television a sharp blow to the top of the set.
-> Before attempting to solve any remote errors you should throw the remote control at a wall.
-> Before attempting to solve any environment errors you should throw a lightly salted potato chip over your left shoulder.
+<i>
+ If your television will not switch on you may have one of the following problems:
+
+ * *Unable to power television on (I)* - If you are unable to power on your television you have a faulty plug socket.  Insert a metal fork or thin conductive object into the socket.
+     - Error classification: TV Error
+ * *Unable to power television on (II)* - If you are unable to power on your television then the power switch is broken.  Hotwire the switch, while pretending that your television is a 1964 Ford Cortina.
+     - Error classification: TV Error
+* *Unable to Change Channels (I)* - If you are unable to change channels then you have lost the remote control.  Vacate the sofa and search for it.
+     - Error classification: Environment error
+ * *Unable to Change Channels (II)* - If you are unable to change channels then you have removed the batteries in order to power your [wall-mounted singing bass ornament](https://www.youtube.com/watch?v=XhB6ifx1B4A).  Replace the batteries.
+     - Error classification: Remote error
+ * *Image is fuzzy or distorted (I)* - If your television shows a fuzzy or distorted image then your aerial socket has snapped off.  Insert a metal fork or thin conductive object into the socket.
+     - Error classification: TV Error
+ * *Image is fuzzy or distorted (II)* - If your television shows a fuzzy or distorted image then your aerial has no reception.  Climb onto your roof and wiggle the aerial until the image improves.
+     - Error classification: Environment error
+</i>
+
+ Before attempting to solve any TV errors you should give your television a sharp blow to the top of the set.
+ Before attempting to solve any remote errors you should throw the remote control at a wall.
+ Before attempting to solve any environment errors you should throw a lightly salted potato chip over your left shoulder.
 
 ## Milestones
 
