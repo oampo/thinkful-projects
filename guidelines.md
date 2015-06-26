@@ -12,14 +12,13 @@ Each project hones in on just one or two core concepts and requires the student 
 
 Get a taste for awesome projects with these examples:
 
-- Build your first [hello jedi](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/first_node_server/jedi.md) with Node and Express.
+- Building your first [hello jedi](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/first_node_server/jedi.md) with Node and Express.
 
-- Understand memory leaks and profiling by [fixing a leaky application](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/memory_leaks/wiki-leaks.md) .
+- Fixing a [leaky application](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/memory_leaks/wiki-leaks.md) to understand memory leaks and profiling by.
 
-- Implement authentication and routing by [building a social network](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/authentication_and_routing/Thinkr.md).
+- Building a [social network](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/node/authentication_and_routing/Thinkr.md) to practice authentication and routing.
 
-Here's a [project template](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/project_template.md) for you to download and start with. As you dig in, keep these guidelines in mind:
-
+Start your own project by customizing this [project template](https://github.com/Thinkful-Ed/thinkful-projects/blob/master/project_template.md). As you dig in, keep these guidelines in mind:
 
 ### Metadata
 
