@@ -1,4 +1,13 @@
-# Seeing stars: Building Variable Rating Component
+title:                  Seeing Stars: Building Variable Rating Component 
+description:             
+duration:               4 hours  
+skill_level:            Intermediate  
+core_concepts:          [To come]
+prerequisite_concepts:  [To come]  
+
+tags:                   React  
+date_implemented:       June 30, 2015  
+slug:                   seeing-stars-react 
 
 You've been hired by Netflix to spice up their website with a new stars rating view in React. Some movies, they tell you, are going to have a bonus _sixth_ star in addition to the original five, which they figure will really up their average ratings. If that goes well, a seventh star might even be on the event horizon.
 

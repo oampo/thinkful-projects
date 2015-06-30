@@ -1,9 +1,13 @@
-# Lights Out game using React
+title:                  Lights Out: Using React  
+description:            Build React components to control a set of lights.  
+duration:               4 hours  
+skill_level:            Intermediate  
+core_concepts:          React, Click Handlers, Solvers (Advanced) 
+prerequisite_concepts:  [To come]  
 
-## Metadata
-Author: Thomas Peterson
-Level: Intermediate
-Topics: React, Click Handlers, Solvers (Advanced)
+tags:                   React  
+date_implemented:       June 30, 2015  
+slug:                   lights-out-react 
 
 You go over to your friend Jigsaw's house for a sleepover and after watching
 Mean Girls twice, you decide it's time to hit the hay. When you get to the guest
