@@ -59,4 +59,4 @@ To complete this project, you'll want to be familiar with the following concepts
 
 ## Example Solution
 
-[To come]
+Our solution is coming soon. Want us to take a look at yours? [Email us](dan@thinkful.com) a link to the GitHub project or share it on [Slack](https://thinkful-students.slack.com).

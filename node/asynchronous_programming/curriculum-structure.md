@@ -107,4 +107,4 @@ Update your code to build the required data structure as you walk through the di
 
 ## Example Solution
 
-[To come]
+Our solution is coming soon. Want us to take a look at yours? [Email us](dan@thinkful.com) a link to the GitHub project or share it on [Slack](https://thinkful-students.slack.com).
