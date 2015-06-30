@@ -103,7 +103,7 @@ Update your code to build the required data structure as you walk through the di
 
 ## Resources
 
-[To come]
+Need help getting started? Join the next frontend [Office Hours](https://open-sessions.thinkful.com/) or ask in the #front-end-web-dev channel on [Slack](https://thinkful-students.slack.com)
 
 ## Example Solution
 
