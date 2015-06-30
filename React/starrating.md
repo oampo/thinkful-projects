@@ -1,6 +1,6 @@
 title:                  Seeing Stars: Building Variable Rating Component 
 description:             
-duration:               4 hours  
+duration:               2 hours  
 skill_level:            Intermediate  
 core_concepts:          [To come]
 prerequisite_concepts:  [To come]  

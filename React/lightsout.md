@@ -1,6 +1,6 @@
 title:                  Lights Out: Using React  
 description:            Build React components to control a set of lights.  
-duration:               4 hours  
+duration:               2 hours  
 skill_level:            Intermediate  
 core_concepts:          React, Click Handlers, Solvers (Advanced) 
 prerequisite_concepts:  [To come]  
