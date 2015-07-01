@@ -1,6 +1,6 @@
 title:                  Working Remotely: Error Creation Handling
 description:            Create error objects to handle errors for a 'Smart TV' JavaScript API. 
-duration:               1 hour
+duration:               2 hours
 skill_level:            Beginner
 core_concepts:          Error handling, Callbacks, Inheritance
 prerequisite_concepts:  [To come]
