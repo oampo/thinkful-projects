@@ -49,13 +49,13 @@ To get the Administrator a healthy raise at his next pay review your app should:
 
 To complete this project, you'll want to be familiar with the following concepts:
 
-- [Making HTTP Requests](https://courses.thinkful.com/tfl-001v1/assignment/2.1.3): How to use Unirest to make HTTP requests to receive data from an API.
-- [GET Requests](https://courses.thinkful.com/tfl-001v1/assignment/2.2.2): A GET request is a web request soliciting data.
+- [Making HTTP Requests](https://courses.thinkful.com/node-001v4/assignment/2.1.3): How to use Unirest to make HTTP requests to receive data from an API.
+- [GET Requests](https://courses.thinkful.com/node-001v4/assignment/2.2.2): A GET request is a web request soliciting data.
 - [Form Handling](https://courses.thinkful.com/oreilly-node-express/chapter/1.12): This chapter will teach you how to collect, receive and validate information from users.
-- [Deploying to Heroku](https://courses.thinkful.com/tfl-001v1/project/2.2.5): For a simple app like this one, deploying to Heroku is the fastest way to get it live on the web. Heroku is a layer of abstraction on top of Amazon Web Services that lets you avoid setting up your own server from scratch.
+- [Deploying to Heroku](https://courses.thinkful.com/node-001v4/project/2.2.5): For a simple app like this one, deploying to Heroku is the fastest way to get it live on the web. Heroku is a layer of abstraction on top of Amazon Web Services that lets you avoid setting up your own server from scratch.
 - [Templating with Handlebars](https://courses.thinkful.com/oreilly-node-express/chapter/1.11): Handlebars (or Jade, which is introduced in the same chapter) is the most popular templating engine used with Node. You can use it to easily include dynamic information (new thoughts or hashtags) in your HTML templates.
-- [Running async tasks in series](https://courses.thinkful.com/tfl-001v1/project/4.2.4): How to run one asynchronous task after another has finished
-- [Running async tasks in parallel](https://courses.thinkful.com/tfl-001v1/assignment/4.3.1): How to run asynchronous tasks simultaneously, continuing when they have all finished.
+- [Running async tasks in series](https://courses.thinkful.com/node-001v4/project/4.2.4): How to run one asynchronous task after another has finished
+- [Running async tasks in parallel](https://courses.thinkful.com/node-001v4/assignment/4.3.1): How to run asynchronous tasks simultaneously, continuing when they have all finished.
 
 ## Example Solution
 
