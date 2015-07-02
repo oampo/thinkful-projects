@@ -62,15 +62,15 @@ Importing the data from Amazon's old system is expected to be painful.  It is st
 
 ## Milestones
 
-1. Write a POST endpoint which parses the JSON from the post body, and writes it to a new file.  If you need some pointers then take a look at [this assignment on creating POST endpoints with Express](https://courses.thinkful.com/tfl-001v1/assignment/2.2.3).
-2. Write a test for the endpoint which sends some data to the endpoint and checks to see whether the file has been written and contains the correct contents.  Take a look at [this lesson](https://courses.thinkful.com/tfl-001v1/lesson/2.3) for a guide to testing API endpoints using Mocha and Chai
+1. Write a POST endpoint which parses the JSON from the post body, and writes it to a new file.  If you need some pointers then take a look at [this assignment on creating POST endpoints with Express](https://courses.thinkful.com/node-001v4/assignment/2.2.3).
+2. Write a test for the endpoint which sends some data to the endpoint and checks to see whether the file has been written and contains the correct contents.  Take a look at [this lesson](https://courses.thinkful.com/node-001v4/lesson/2.3) for a guide to testing API endpoints using Mocha and Chai
 3. Write additional tests which send different types of invalid data to the endpoint and check to see whether the appropriate errors are returned.  The [Chai HTTP documentation](http://chaijs.com/plugins/chai-http) covers the different types of assertions which you can make in your tests.
 4. Update your endpoint to make your tests pass by validating the data using JavaScript.  For example, to check whether a piece of data exists you can look at the contents of the `request.body` object.
 
 ## Resources
 
 * Completely new to testing?  Take a look at [this introduction to Behaviour-Driven Development](Introduction to Behavior-Driven Development with JS - Chapter 1), a popular methodology for automatically testing code.
-* For an introduction to creating APIs in Node, work through [this lesson](https://courses.thinkful.com/tfl-001v1/lesson/2.2)
+* For an introduction to creating APIs in Node, work through [this lesson](https://courses.thinkful.com/node-001v4/lesson/2.2)
 * Take a look at [how Twitter handle errors in their API](https://dev.twitter.com/overview/api/response-codes) for an example of a scheme for returning information about errors.
 
 ## Example Solution

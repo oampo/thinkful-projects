@@ -49,7 +49,7 @@ Break your project down into realistic and discrete "Milestones."  Give each mil
 
 Give clear steps to complete or requirements to implement for each milestone. Use separate paragraphs or a list for clear structure. Beginner level projects should include specific, precise steps.  Advanced projects should have general steps that encompass several related tasks at once.
 
-For each step, link to content that explains the concepts, tools, or skills the student needs to complete that step.  For example, you could close a milestone with language like: "if you need help with either step, review [Simple Express servers and Request parameters](https://courses.thinkful.com/tfl-001v1/assignment/2.1.1)."
+For each step, link to content that explains the concepts, tools, or skills the student needs to complete that step.  For example, you could close a milestone with language like: "if you need help with either step, review [Simple Express servers and Request parameters](https://courses.thinkful.com/node-001v4/assignment/2.1.1)."
 
 Students should be able to complete individual milestones in a single sitting. Your first milestone, in particular, should take half an hour or less to complete. Big, complex initial milestones are a sign that the project is overly complex or too difficult for students to begin.
 
