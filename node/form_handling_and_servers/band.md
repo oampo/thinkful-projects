@@ -46,8 +46,8 @@ To sell out three nights at Madison Square Garden your app should:
 
 To complete this project, you'll want to be familiar with the following concepts:
 
-- [Simple Express servers](https://courses.thinkful.com/tfl-001v1/assignment/2.1.1), which respond to HTTP requests.
+- [Simple Express servers](https://courses.thinkful.com/node-001v4/assignment/2.1.1), which respond to HTTP requests.
 - [Form Handling](https://courses.thinkful.com/oreilly-node-express/chapter/1.12).  You can use the body-parser to receive form data.
-- [String Concatenation](https://courses.thinkful.com/tfl-001v1/assignment/1.1.2) for "gluing together" two strings.
-- [GET Requests](https://courses.thinkful.com/tfl-001v1/assignment/2.2.2): for requesting data from a web server.
+- [String Concatenation](https://courses.thinkful.com/node-001v4/assignment/1.1.2) for "gluing together" two strings.
+- [GET Requests](https://courses.thinkful.com/node-001v4/assignment/2.2.2): for requesting data from a web server.
 

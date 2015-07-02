@@ -85,7 +85,7 @@ The number of units, lessons, and assignments in each curriculum varies.  Your t
 ### Milestone 1: Listing the file structure
 
 1. Create a simple example directory structure without symlinks or extraneous files.
-2. Write a function to list the contents of a single directory asynchronously.  You may need to revisit the [Node fs module documentation](https://nodejs.org/api/fs.html), and look at [how to handle asynchronous programming without resorting to a tangle of callbacks](https://courses.thinkful.com/tfl-001v1/lesson/4.2).
+2. Write a function to list the contents of a single directory asynchronously.  You may need to revisit the [Node fs module documentation](https://nodejs.org/api/fs.html), and look at [how to handle asynchronous programming without resorting to a tangle of callbacks](https://courses.thinkful.com/node-001v4/lesson/4.2).
 3. Find out (asynchronously) whether any of the items in the directory are folders. If they are, call your directory listing function recursively for each of them.
 
 ### Milestone 2: Reading the assignments
@@ -94,7 +94,7 @@ Update your code to list in the content of each assignment.
 
 ### Milestone 3: Creating the data structure
 
-Update your code to build the required data structure as you walk through the directory tree.  You may need to revisit the [methods for building objects and arrays](https://courses.thinkful.com/tfl-001v1/assignment/1.1.2).
+Update your code to build the required data structure as you walk through the directory tree.  You may need to revisit the [methods for building objects and arrays](https://courses.thinkful.com/node-001v4/assignment/1.1.2).
 
 ### Milestone 4: Handling the caveats
 
