@@ -18,6 +18,12 @@ As you review a 5,004 line legacy `user/models.py` file your eyes glaze over and
 
 Several of your microservices will need to reuse the same code, so for this project you'll create and publish your internal common libraries as Node packages to [sinopi](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/), a private Node registry.
 
+## Resources
+
+* If you are worried that your dependency's dependencies are going to cause issues, you can force them to remain the same version.  Lock down max's dependencies with [shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap).
+* [Node module lookup](https://nodejs.org/api/modules.html#modules_loading_from_node_modules_folders)
+* [More resources to come]
+
 ## Milestones
 
 ### Milestone 1: Up and Running with Node and npm
@@ -40,8 +46,4 @@ If you haven’t used npm before, you should learn what npm is, how to install a
 
 [Publish your packages to a private registry with [sinopia](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/)]
 
-##Additional Resources
 
-* If you are worried that your dependency's dependencies are going to cause issues, you can force them to remain the same version.  Lock down max's dependencies with [shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap).
-* [Node module lookup](https://nodejs.org/api/modules.html#modules_loading_from_node_modules_folders)
-* [More resources to come]

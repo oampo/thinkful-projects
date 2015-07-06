@@ -80,6 +80,10 @@ The number of units, lessons, and assignments in each curriculum varies.  Your t
 * Some of the lessons may be symlinks to lessons from other curricula.  The symlinks should be followed to get to the content.
 * The curricula may be very large, so in order to complete the task quickly the code needs to perform the IO asynchronously.
 
+## Resources
+
+Need help getting started? Join the next frontend [Office Hours](https://open-sessions.thinkful.com/) or ask in the #front-end-web-dev channel on [Slack](https://thinkful-students.slack.com)
+
 ##Milestones
 
 ### Milestone 1: Listing the file structure
@@ -100,10 +104,6 @@ Update your code to build the required data structure as you walk through the di
 
 1. Add some extraneous files to your directory structure, and make one of the lessons symlink to a new directory.
 2. Make sure your code handles these edge cases successfully.
-
-## Resources
-
-Need help getting started? Join the next frontend [Office Hours](https://open-sessions.thinkful.com/) or ask in the #front-end-web-dev channel on [Slack](https://thinkful-students.slack.com)
 
 ## Example Solution
 

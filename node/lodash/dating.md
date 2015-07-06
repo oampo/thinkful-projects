@@ -20,6 +20,18 @@ After a chat with the lead architect, you agreed on a series of unit tests that 
 
 Functional programming will help improve the consistency of how your applications perform whilst improving their testability and code semantics. To read more about functional programming take a look at [this](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/) article.
 
+## Resources
+
+[Thinkful Lodash Course](https://reader.thinkful.com/rapid-lodash/918/course-overview) - A video series going through various methods and techniques using lodash.
+
+[Don't be scared of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/) - An in detail article describing functional programming.
+
+[Lodash Documentation](https://lodash.com/docs) - The fluffing lodash manual.
+
+[Lodash Cookbook](https://leanpub.com/lodashcookbook/read) - Free on-line book containing many techniques and tips for working with this amazing library.
+
+[Partial Application and Composition](http://benalman.com/news/2012/09/partial-application-in-javascript/) - Detailed article on partial application and composition methods in JavaScript.
+
 ## Milestones
 
 ### Milestone 1: Getting to Know You
@@ -51,14 +63,4 @@ Once your tests are passing, keep your hipster stakeholders happy by refactoring
 
 Don't sneak a peak at the `/solutions/` folder until after you've refactored your code. If you do anyway - try to implement the solutions in a different way! Happy hacking!
 
-## Resources
 
-[Thinkful Lodash Course](https://reader.thinkful.com/rapid-lodash/918/course-overview) - A video series going through various methods and techniques using lodash.
-
-[Don't be scared of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/) - An in detail article describing functional programming.
-
-[Lodash Documentation](https://lodash.com/docs) - The fluffing lodash manual.
-
-[Lodash Cookbook](https://leanpub.com/lodashcookbook/read) - Free on-line book containing many techniques and tips for working with this amazing library.
-
-[Partial Application and Composition](http://benalman.com/news/2012/09/partial-application-in-javascript/) - Detailed article on partial application and composition methods in JavaScript.
