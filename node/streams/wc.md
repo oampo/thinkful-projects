@@ -15,8 +15,11 @@ Going back to the earliest versions of UNIX, ancestor to LINUX and OS/X, program
 
 In this project, you'll see how node.js provides these same abstractions, by using them to implement simple versions of the _cat_ and _wc_ commands.
 
+## Resources
 
-## Mikestones
+* This [useful tutorial](http://howtonode.org/coding-challenges-with-streams) explains the basics of using streams.
+
+## Milestones
 
 You should implement this project as three tools: `cat.js`, `num.js`, and `wc.js`.
 
@@ -72,8 +75,6 @@ $ node wc.js < my_test_file.txt
 2. Test by comparing the output of the real _wc(1)_ command to your Node script.
 
 
-## Resources
 
-* This [useful tutorial](http://howtonode.org/coding-challenges-with-streams) explains the basics of using streams.
 
 
