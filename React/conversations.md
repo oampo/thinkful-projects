@@ -3,7 +3,7 @@ description:            Use react to build a messaging front end
 duration:               7 hours
 skill_level:            Advanced  
 core_concepts:          React, Flux, Babel, Webpack, socket.io
-prerequisite_concepts:  CommonJS, npm
+prerequisite_concepts:  CommonJS, npm, Node
 
 slug:                   chat-react
 tags:                   React, Node
