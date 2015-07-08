@@ -18,6 +18,8 @@ In this project, you'll see how node.js provides these same abstractions, by usi
 ## Resources
 
 * This [useful tutorial](http://howtonode.org/coding-challenges-with-streams) explains the basics of using streams.
+* The [Node fs documentation](https://nodejs.org/api/fs.html#fs_fs_readfile_filename_options_callback) provides an example of how to read files using Node.
+* [This lesson](https://courses.thinkful.com/node-001v4/lesson/4.1) looks in more detail at how streams are used, and how to implement your own streams.
 
 ## Milestones
 
