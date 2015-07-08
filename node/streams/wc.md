@@ -15,10 +15,18 @@ Going back to the earliest versions of UNIX, ancestor to LINUX and OS/X, program
 
 In this project, you'll see how node.js provides these same abstractions, by using them to implement simple versions of the _cat_ and _wc_ commands.
 
+## Resources
 
-## Steps
+* This [useful tutorial](http://howtonode.org/coding-challenges-with-streams) explains the basics of using streams.
+* The [Node fs documentation](https://nodejs.org/api/fs.html#fs_fs_readfile_filename_options_callback) provides an example of how to read files using Node.
+* [This lesson](https://courses.thinkful.com/node-001v4/lesson/4.1) looks in more detail at how streams are used, and how to implement your own streams.
 
-Milestone 1: Build a simple _cat_ command using streams.
+## Milestones
+
+You should implement this project as three tools: `cat.js`, `num.js`, and `wc.js`.
+
+
+### Milestone 1: Build a simple _cat_ command using streams.
 
 1. Create a Node script `cat.js` that uses streams to copy a file on `stdin` to `stdout`.  Create a test file named `my_text_file.txt` containing several lines of amusing text (you can copy (these)[http://www.azlyrics.com/lyrics/djjazzyjeffthefreshprince/freshprinceofbelairthemesong.html] if you're short on time). Refer back to the tutorial above if you get stuck.
 
@@ -30,7 +38,7 @@ $ node cat.js < my_test_file.txt
 
 You should see the contents of your `my_test_file.txt` output to your terminal window.
 
-Milestone 2: Build a _num_ command that adds line numbers ahead of each line in a text file.
+### Milestone 2: Build a _num_ command that adds line numbers ahead of each line in a text file.
 
 Remember that the data in a Node stream is just raw bytes. In order to interpret it as lines, you need to add a _codec_ into your stream when you create it.
 
@@ -55,7 +63,7 @@ The output should look like:
 $ node num.js < my_test_file.txt
 ```
 
-Milestone 3: Implement a simple version of the _wc(1)_ command using Node streams.
+### Milestone 3: Implement a simple version of the _wc(1)_ command using Node streams.
 
 1. Create a Node script `wc.js` that prints the number of lines, words, and characters. So, for example,
 
@@ -69,6 +77,6 @@ $ node wc.js < my_test_file.txt
 2. Test by comparing the output of the real _wc(1)_ command to your Node script.
 
 
-## Resources
 
-1. This [useful tutorial](http://howtonode.org/coding-challenges-with-streams) explains the basics of using streams.
+
+

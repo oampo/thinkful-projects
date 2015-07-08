@@ -18,6 +18,16 @@ But a great band is nothing without a great band name.  Would Megadeth have sold
 
 For this project you'll build a Node app to generate band name ideas and member pseudonyms for [power trio](http://en.wikipedia.org/wiki/Power_trio) bands playing different generes of music (e.g. Country, Heavy Metal, Jazz).
 
+
+## Resources
+
+To complete this project, you'll want to be familiar with the following concepts:
+
+- [Simple Express servers](https://courses.thinkful.com/node-001v4/assignment/2.1.1), which respond to HTTP requests.
+- [Form Handling](https://courses.thinkful.com/oreilly-node-express/chapter/1.12).  You can use the body-parser to receive form data.
+- [String Concatenation](https://courses.thinkful.com/node-001v4/assignment/1.1.2) for "gluing together" two strings.
+- [GET Requests](https://courses.thinkful.com/node-001v4/assignment/2.2.2): for requesting data from a web server.
+
 ## Milestones
 
 ### Milestone 1: Creating the band name
@@ -42,12 +52,4 @@ To sell out three nights at Madison Square Garden your app should:
 * Use the pseudonym generator to create a pseudonym for each member.
 * Display the band name, along with the pseudonyms and instruments.
 
-##Additional Resources
-
-To complete this project, you'll want to be familiar with the following concepts:
-
-- [Simple Express servers](https://courses.thinkful.com/node-001v4/assignment/2.1.1), which respond to HTTP requests.
-- [Form Handling](https://courses.thinkful.com/oreilly-node-express/chapter/1.12).  You can use the body-parser to receive form data.
-- [String Concatenation](https://courses.thinkful.com/node-001v4/assignment/1.1.2) for "gluing together" two strings.
-- [GET Requests](https://courses.thinkful.com/node-001v4/assignment/2.2.2): for requesting data from a web server.
 

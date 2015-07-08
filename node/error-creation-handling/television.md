@@ -1,6 +1,6 @@
 title:                  Working Remotely: Error Creation Handling
 description:            Create error objects to handle errors for a 'Smart TV' JavaScript API. 
-duration:               1 hour
+duration:               2 hours
 skill_level:            Beginner
 core_concepts:          Error handling, Callbacks, Inheritance
 prerequisite_concepts:  [To come]
@@ -37,16 +37,16 @@ To help you out the chief engineer has printed out a copy of the troubleshooting
  Before attempting to solve any remote errors you should throw the remote control at a wall.
  Before attempting to solve any environment errors you should throw a lightly salted potato chip over your left shoulder.
 
+## Resources
+
+* For a more complete look at JavaScript inheritance, take a look at [this chapter](OOJS - Chapter 6)
+* [This article](http://thenodeway.io/posts/understanding-error-first-callbacks) describes some of the design rationale behind error-first callback, and gives examples of how they can be user.
+
 ## Milestones
 
 1. Create custom error objects to represent each of the different types things which can go wrong with your TV.  The error object should inherit from objects which represent the "Error classifications", which should themselves inherit from the `Error` object.  If you are unsure of how to create custom error types, take a look at the [MDN documentation for the `Error` object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error).
 2. Update the `turnOn`, `switchChannel`, and `watch` methods of [the API](gist) to use your error objects, and run the callback or errback methods as appropriate.  For more information on callbacks take a look at [this assignment on the callback pattern](https://courses.thinkful.com/node-001v4/assignment/4.2.2).
 3. Write a small test application which tries to turn on the TV, switch channels, and then watch the TV.  If any of the stages fail then you should call the function which attempts the fix described in the manual, then retry the stage.
-
-## Additional Resources
-
-* For a more complete look at JavaScript inheritance, take a look at [this chapter](OOJS - Chapter 6)
-* [This article](http://thenodeway.io/posts/understanding-error-first-callbacks) describes some of the design rationale behind error-first callback, and gives examples of how they can be user.
 
 ## Example Solution
 

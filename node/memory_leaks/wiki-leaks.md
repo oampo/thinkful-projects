@@ -16,6 +16,14 @@ It's your first day at your new programming job at the infamous CIA bothering sh
 
 You open the project to find [this monstrosity](https://gist.github.com/oampo/da35215db9cd794c7aff).  All you have to do to keep your boss happy is to track down and fix every memory leak.
 
+
+## Resources
+
+* For a high-level recap of references in JavaScript take a look at [this chapter of JavaScript Allongé](https://github.com/Thinkful-Ed/js-allonge-book/blob/master/content/3_References%20and%20Rebinding/content.md)
+* [This article](http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/) introduces two Node.js modules which can be used to detect memory leaks in a Node application.  Note that the version of Memwatch linked by the article is outdated.  You should use [this fork](https://github.com/marcominetti/node-memwatch) instead.
+* The Chrome memory profiler can help you visualize how memory is being used in your application.  There is information about how to use the profiles, plus some useful information about how memory is stored and free in [this guide](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
+* [This article from Netflix](http://techblog.netflix.com/2014/11/nodejs-in-flames.html) has a great account of finding an fixing a memory leak in a Node.js app.
+
 ## Milestones
 
 ### Milestone 1: Test-Driving the Map
@@ -29,13 +37,6 @@ Take a read through the code, paying particular attention to any parts which see
 ### Milestone 3: Plug the Leaks
 
 Update the code to remove all memory leaks.  Although you might feel that a complete rewrite is in order (it definitely is!), think of your bosses feelings and try to keep the feel of the original code.
-
-## Resources
-
-* For a high-level recap of references in JavaScript take a look at [this chapter of JavaScript Allongé](https://github.com/Thinkful-Ed/js-allonge-book/blob/master/content/3_References%20and%20Rebinding/content.md)
-* [This article](http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/) introduces two Node.js modules which can be used to detect memory leaks in a Node application.  Note that the version of Memwatch linked by the article is outdated.  You should use [this fork](https://github.com/marcominetti/node-memwatch) instead.
-* The Chrome memory profiler can help you visualize how memory is being used in your application.  There is information about how to use the profiles, plus some useful information about how memory is stored and free in [this guide](https://developer.chrome.com/devtools/docs/javascript-memory-profiling)
-* [This article from Netflix](http://techblog.netflix.com/2014/11/nodejs-in-flames.html) has a great account of finding an fixing a memory leak in a Node.js app.
 
 ## Footnotes
 
