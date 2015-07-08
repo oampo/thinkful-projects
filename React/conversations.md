@@ -33,9 +33,9 @@ The application should be able to list all of the conversations you've had with 
 - Use socket.io to emit messages to the server from the message store and to receive for the the message store reieve messages from the server.  The conversation list component and conversation component should have listeners on the message store in order to be updated with the latest messages.
 
 ## Resources
-- [Getting Started with Webpack](http://webpack.github.io/docs/tutorials/getting-started/)
-- [Babel with Webpack](https://babeljs.io/docs/setup/#webpack)
-- [Flux Overview](https://facebook.github.io/flux/docs/overview.html)
-- [Actions and the Dispatcher](https://facebook.github.io/react/blog/2014/07/30/flux-actions-and-the-dispatcher.html)
-- [Partial Solution](https://github.com/facebook/flux/tree/master/examples/flux-chat)
-- [socket.io chat](https://github.com/Automattic/socket.io/tree/master/examples/chat)
+- [This tutorial](http://webpack.github.io/docs/tutorials/getting-started/) will walk you through how to getting started with Webpack
+- The Babel documentation gives you [a sample configuration](https://babeljs.io/docs/setup/#webpack) for using Babel with Webpack
+- Facebook provide an [overview of the Flux architecture](https://facebook.github.io/flux/docs/overview.html)
+- [This blog post](https://facebook.github.io/react/blog/2014/07/30/flux-actions-and-the-dispatcher.html) provides a guide to the use of the dispatcher in Flux applications.
+- There is a [partial solution](https://github.com/facebook/flux/tree/master/examples/flux-chat) to the chat problem hosted on GitHub.
+- The Socket.IO documentation provides a [guide to creating a simple chat application](http://socket.io/get-started/chat/)
