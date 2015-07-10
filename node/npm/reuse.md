@@ -12,38 +12,46 @@ date_implemented:       June 24, 2014
 
 ## Project Brief
 
-You just started as the first full stack developer at Initech, a mission-driven company billed as "Uber for Financial Services Consulting". Over the last two years of proving product-market fit they've built a monolitic Python application. Now they're ready to scale and your job is to convert to a microservices architecture.
+You have only been working as a full stack developer at Initech for two weeks, and you are already staging a coup.  Initech, a mission-driven company billed as "Uber for Financial Services Consulting", have spent two year proving product-market fit, during which time they've built a monolitic Python application.
 
 As you review a 5,004 line legacy `user/models.py` file your eyes glaze over and you find yourself daydreaming about code reuse, comprehensible modules and, well, JavaScripting all the things.
 
-Several of your microservices will need to reuse the same code, so for this project you'll create and publish your internal common libraries as Node packages to [sinopi](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/), a private Node registry.
+You turn to your semi-comatose colleague in the adjacent cubicle and you tell her that together the two of you are making a stand.  There will be no more monolithic Python.  There will only be beautiful, modular JavaScript.
+
+Your colleague shrugs her shoulders, takes a sip of Club Mate, and tells you that she has a bit of code laying around which you can use to convince the key stakeholder: your boss.
 
 ## Resources
 
-* If you are worried that your dependency's dependencies are going to cause issues, you can force them to remain the same version.  Lock down max's dependencies with [shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap).
-* [Node module lookup](https://nodejs.org/api/modules.html#modules_loading_from_node_modules_folders)
+* If you haven’t used npm before, read sections 1-4 of the [npm getting started guide](https://docs.npmjs.com/).  This will show you what npm is, how to install and update it, fix permissions, and install existing packages.
+* The [how to npm module](https://github.com/npm/how-to-npm) is an interactive walkthrough of how to use various features of npm.
+* If you are confused about where Node searches for modules which you install using npm, take a look at this documentation on [the Node module lookup order](https://nodejs.org/api/modules.html#modules_loading_from_node_modules_folders)
+* For an introduction to sinopia
 * [More resources to come]
 
 ## Milestones
 
-### Milestone 1: Up and Running with Node and npm
+### Milestone 1: Initialize the project and install the dependencies
 
-If you haven’t used npm before, you should learn what npm is, how to install and update it, fix permissions, and install existing npm packages. Work through Section 1 through Section 4 of the [“Getting Started”](https://docs.npmjs.com/) guide in npm’s docs.
+Your colleague has written [a small utility in Node](https://gist.github.com/oampo/51c6c56d208f6d9ecea4) for adding new contractors to the database, and manipulating the ratings of contractors so everyone gets five-star service.
 
-### Milestone 2: Installing Existing Packages
+To complete this milestone you should:
 
-[To come]
+* Create a new directory for the project
+* Download [the code](https://gist.github.com/oampo/51c6c56d208f6d9ecea4) into the directory
+* Initialize the project using `npm init`
+* Use npm to install the project's dependencies, saving them to your `package.json` file.
+* Have a read through of the utility, and try running the examples, so you understand how it works
 
-[Should include global installation of [How to npm](https://github.com/npm/how-to-npm), a package that helps you package. Perhaps other packages?]
+### Milestone 2: Split out the database layer
 
-### Milestone 3: Creating and Publishing New Packages
+To complete this milestone you should split your code into three separate projects: the database layer, and two separate utility applications for adding the contractors, and changing the ratings.
 
-[To come]
+* The two utilities should use `npm link` to link to the database layer.
+* You will need to add `module.export` and `require` calls to give you access to the database layer from the utilities.
+* Each project should have its own `package.json` file listing the correct dependencies.
 
-[Create two packages.  Package2 should include Package1 using [npm link](https://docs.npmjs.com/cli/link).]
+### Milestone 3: Publishing your packages
 
-[Should we use a stripped-down version of the tfcommons package to provide a sample package if they don't want to build their own?]
-
-[Publish your packages to a private registry with [sinopia](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/)]
+To complete this milestone you should set up [sinopia](https://github.com/rlidwka/sinopia) to act as a private registry.  You should then publish your three packages to the registry, and try installing them in a separate project to make sure that the registry is working correctly.
 
 
