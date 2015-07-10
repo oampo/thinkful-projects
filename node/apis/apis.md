@@ -1,54 +1,86 @@
-<!-- Metadata Fields -->
-
-title:                  [title]  
-description:            [short description of the project]  
-duration:               [time it'll take to consume the resources and build the project]  
-skill_level:            ["Beginner", "Intermediate", or "Advanced"]  
-core_concepts:          [the 1 - 3 core concepts this project teaches]  
-prerequisite_concepts:  [the concepts the student needs to know before they can start this project]  
-
-tags:                   <!-- Leave this empty -->  
-date_implemented:       <!-- Leave this empty -->  
-slug:                   <!-- Leave this empty -->  
-
+title:                  RESTful Books
+description:            Implement a RESTful API for UBaaS: Used Books as a Service
+duration:               4-8 hours
+skill_level:            Advanced
+core_concepts:          REST, Express, Node.js
+prerequisite_concepts:  URIs, JSON, node.js, Express
+tags:                   <!-- Leave this empty -->
+date_implemented:       <!-- Leave this empty -->
+slug:                   <!-- Leave this empty -->
 
 ## Project Brief
-<!-- Format your project brief in paragraphs.  Be creative! -->
+
+You are the proprietor of _Very Good Used Book Store, LLC_, the best used book store in the Upper Midwest, and you want to expand your business.  You've been reading about startups, and you think the market is ready for a new concept: Used Books as a Service (UBaaS). You've determined that the Minimum Viable Product must provide a way for applications to:
+
+* search for books by _title_, _author_, _publisher_, _price_, or _ISBN_.
+
+* list books in stock by _title_, _author_, _publisher_. (Remember you have thousands of books in stock, so make sure you can limit the number of books in each request)
+
+Once you've demonstrated the MVP, extend it by adding operations to let you manage the inventory.
 
 ## Milestones
-<!-- Format milestones as ordered h2's.  Each milestone h2 should include a short title. Below the h2 describe clear steps to achieve the milestone with paragraphs or an ordered list. -->
 
-### Milestone 1: [title]
+### Milestone 1: Make a Catalog
 
-* [Milestone 1 content]
+* Define a JSON format for your book catalog.
 
-### Milestone 2: [title]
+* Create some test data.  (This project is concentrating on APIs, so it's okay to just store your test data in a literal object, but if you are comfortable with MongoDB, you might instead set up a MongoDB collection.)
 
-* [Milestone 2 content]
+* Define your API for both listing and searching, and document it by identifying the CRUD operations and the HTTP verbs that match those operations for your APIs. (Note that so far we *haven't* specified anything except READ operations.)
 
-### Milestone 3: [title]
+### Milestone 2: Implement your MVP
 
-* [Milestone 3 content]
+* Create a new node.js project including Express and (optionally) Mongoose. 
+
+* Implement each of the URI routes defined for your MVP.
+
+* Test your API using Postman, _curl_ or _httpie_.
+
+### Milestone 3: Update the Catalog
+
+Now that you have your MVP, you would like to be able to add the following operations: add a book, update the number of copies in stock, delete a book, and change the price.
+
+* Update your API documentation for each of the new operations.
+
+* Modify your implementation to support each new operation.
+
+### Milestone 4: Sell a Book
+
+* Add operations to sell a book
+
+* Sell a book.
 
 ## Resources
-<!--
-    Format resources as an unordered list. Include a resource for every:
-        1. Core concept. This should be the primary article, tutorial, video, etc. the student uses to learn the core concepts the project covers.
-        2. Concepts related to common pitfalls. What will the student probably need to google while working on this project?
-        3. A practical application or story of someone tackling a similar problem.
-        4. (Optional) Tools, tips, and pointers.
 
-    For each list item, include a hyperlinked title followed by 1 - 3 sentences describing why the concept and resource is important.
--->
 To complete this project, you'll want to be familiar with the following concepts and resources:
 
-* 
-* 
-* 
-* 
+* Building a new node.js project using Express
 
-## Footnotes
-<!-- The footnote section is optional. You're welcome to include anything here you like, just be sure info here doesn't *really* belong in one of the other sections. -->
+    * [Hello KnoBe](https://projects.thinkful.com/12/)
 
-## Example Solution
-<!-- Link to an example solution, preferably on GitHub -->
+* ReST: Representational State Transfer
+
+    * [How I explained REST to my wife](http://www.looah.com/source/view/2284)
+
+    * [A Brief Introduction to REST](http://www.infoq.com/articles/rest-introduction)
+
+    * [Learn REST: A Tutorial](http://rest.elkstein.org/)
+
+
+    * The answers to [this Stack Overflow question](http://stackoverflow.com/questions/671118/what-exactly-is-restful-programming)
+
+    * Chapter 5 of Roy Fielding's dissertation [defining ReST](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm).
+
+    * [Approaching Pure REST](http://kinderman.net/2010/06/23/approaching-pure-rest-learning-to-love-hateoas)
+
+    * [Build a RESTful API using node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
+
+* Testing your API
+
+    * [Using Postman](https://www.getpostman.com/docs/blog_mentions)
+
+    * [POSTMAN and HTTPie to test APIs](http://blog.mashape.com/postman-httpie-test-apis/)
+
+    * [How to test a REST API with cURL](http://www.codingpedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/)
+
+    * [The Httpie Tool](https://pypi.python.org/pypi/httpie)
