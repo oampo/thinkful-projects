@@ -6,10 +6,6 @@
 - Beginner
 - TBD
 
-### Two-way Databinding with Angular
-- Beginner
-- Learn how Angular manages two-way databinding.
-
 ### Directives
 - Intermediate
 - TBD
