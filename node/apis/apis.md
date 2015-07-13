@@ -18,38 +18,6 @@ You are the proprietor of _Very Good Used Book Store, LLC_, the best used book s
 
 Once you've demonstrated the MVP, extend it by adding operations to let you manage the inventory.
 
-## Milestones
-
-### Milestone 1: Make a Catalog
-
-* Define a JSON format for your book catalog.
-
-* Create some test data.  (This project is concentrating on APIs, so it's okay to just store your test data in a literal object, but if you are comfortable with MongoDB, you might instead set up a MongoDB collection.)
-
-* Define your API for both listing and searching, and document it by identifying the CRUD operations and the HTTP verbs that match those operations for your APIs. (Note that so far we *haven't* specified anything except READ operations.)
-
-### Milestone 2: Implement your MVP
-
-* Create a new node.js project including Express and (optionally) Mongoose. 
-
-* Implement each of the URI routes defined for your MVP.
-
-* Test your API using Postman, _curl_ or _httpie_.
-
-### Milestone 3: Update the Catalog
-
-Now that you have your MVP, you would like to be able to add the following operations: add a book, update the number of copies in stock, delete a book, and change the price.
-
-* Update your API documentation for each of the new operations.
-
-* Modify your implementation to support each new operation.
-
-### Milestone 4: Sell a Book
-
-* Add operations to sell a book
-
-* Sell a book.
-
 ## Resources
 
 To complete this project, you'll want to be familiar with the following concepts and resources:
@@ -84,5 +52,37 @@ To complete this project, you'll want to be familiar with the following concepts
     * _Postman_ is a browser-based tool for API testing.  Set up your API calls and see what happens. [Using Postman](https://www.getpostman.com/docs/blog_mentions)
 
     * This is a tutorial for both _Postman_ and _HTTPie_. [POSTMAN and HTTPie to test APIs](http://blog.mashape.com/postman-httpie-test-apis/)
+
+## Milestones
+
+### Milestone 1: Make a Catalog
+
+* Define a JSON format for your book catalog.
+
+* Create some test data.  (This project is concentrating on APIs, so it's okay to just store your test data in a literal object, but if you are comfortable with MongoDB, you might instead set up a MongoDB collection.)
+
+* Define your API for both listing and searching, and document it by identifying the CRUD operations and the HTTP verbs that match those operations for your APIs. (Note that so far we *haven't* specified anything except READ operations.)
+
+### Milestone 2: Implement your MVP
+
+* Create a new node.js project including Express and (optionally) Mongoose. 
+
+* Implement each of the URI routes defined for your MVP.
+
+* Test your API using Postman, _curl_ or _httpie_.
+
+### Milestone 3: Update the Catalog
+
+Now that you have your MVP, you would like to be able to add the following operations: add a book, update the number of copies in stock, delete a book, and change the price.
+
+* Update your API documentation for each of the new operations.
+
+* Modify your implementation to support each new operation.
+
+### Milestone 4: Sell a Book
+
+* Add operations to sell a book
+
+* Sell a book.
 
 
