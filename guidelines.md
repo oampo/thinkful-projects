@@ -18,7 +18,7 @@ Get a taste for awesome projects with these examples:
 
 - Building a [social network](https://projects.thinkful.com/7) to practice authentication and routing.
 
-Create your project using the shiny new (Project Editor)[projects.thinkful.com].
+Create your project using the shiny new [Project Editor](https://projects.thinkful.com).
 
 ### Metadata
 

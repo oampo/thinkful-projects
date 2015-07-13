@@ -46,7 +46,7 @@
 - skill_level:  Advanced
 - description:  Learn to deploy Node apps: from simple side-projects to large scale applications with complicated dependencies. Practice deploying to Digital Ocean or AWS, and set up continuous deployment to simplify your workflow.
 
-### Node Streams - In progress (Charlie Martin; Implementing Word Count)
+### Node Streams - Live (Charlie Martin; _cat_ pictures: Using Node Streams)
 - skill_level:  Advanced
 - description:  Streams let you read large quantities of data from a source and pipe it to a destination as it arrives, delivering content to your users faster.
 
@@ -58,7 +58,7 @@
 - skill_level:  Advanced
 - description:  Build a chatroom using React and Node with Socket.io to learn real-time development best practices.
 
-### Authentication and Routing - Live (The Social Notwork)
+### Authentication and Routing - Live (The Social Network)
 - skill_level:  Advanced
 - description:  Create the next big thing. Build a simple social network to learn the basics of Node with Express. Set up authentication, work with a Mongo database, and learn how Node works with templating engines.
 
