@@ -56,31 +56,33 @@ To complete this project, you'll want to be familiar with the following concepts
 
 * Building a new node.js project using Express
 
-    * [Hello KnoBe](https://projects.thinkful.com/12/)
+    * This shows how to set up a new project, if you need a reminder. [Hello KnoBe](https://projects.thinkful.com/12/)
 
 * ReST: Representational State Transfer
 
-    * [How I explained REST to my wife](http://www.looah.com/source/view/2284)
+    * A short light-hearted explanation. [How I explained REST to my wife](http://www.looah.com/source/view/2284)
 
-    * [A Brief Introduction to REST](http://www.infoq.com/articles/rest-introduction)
+    * A better shoirt explanation. [A Brief Introduction to REST](http://www.infoq.com/articles/rest-introduction)
 
-    * [Learn REST: A Tutorial](http://rest.elkstein.org/)
+    * A good tutorial. [Learn REST: A Tutorial](http://rest.elkstein.org/)
 
 
-    * The answers to [this Stack Overflow question](http://stackoverflow.com/questions/671118/what-exactly-is-restful-programming)
+    * The answers to [this Stack Overflow question](http://stackoverflow.com/questions/671118/what-exactly-is-restful-programming) explain ReST well.
 
-    * Chapter 5 of Roy Fielding's dissertation [defining ReST](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm).
+    * Chapter 5 of Roy Fielding's dissertation [defining ReST](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) is the ultimate resource.
 
-    * [Approaching Pure REST](http://kinderman.net/2010/06/23/approaching-pure-rest-learning-to-love-hateoas)
+    * Understanding how the _representation_ has all the _state_ is a ket to understanding ReST. [Approaching Pure REST](http://kinderman.net/2010/06/23/approaching-pure-rest-learning-to-love-hateoas)
 
-    * [Build a RESTful API using node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
+    * You can steal a lot of code from this if you're thoughtful. [Build a RESTful API using node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 
 * Testing your API
 
-    * [Using Postman](https://www.getpostman.com/docs/blog_mentions)
+    * _cURL_ is the standard command-line tool for manipulating HTTP. Everyone should know about it, but it's arcane. [How to test a REST API with cURL](http://www.codingpedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/)
 
-    * [POSTMAN and HTTPie to test APIs](http://blog.mashape.com/postman-httpie-test-apis/)
+    * [The Httpie Tool](https://pypi.python.org/pypi/httpie) is a very useful command line tool for testing APIs and for exploring HTTP in general.
 
-    * [How to test a REST API with cURL](http://www.codingpedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/)
+    * _Postman_ is a browser-based tool for API testing.  Set up your API calls and see what happens. [Using Postman](https://www.getpostman.com/docs/blog_mentions)
 
-    * [The Httpie Tool](https://pypi.python.org/pypi/httpie)
+    * This is a tutorial for both _Postman_ and _HTTPie_. [POSTMAN and HTTPie to test APIs](http://blog.mashape.com/postman-httpie-test-apis/)
+
+
