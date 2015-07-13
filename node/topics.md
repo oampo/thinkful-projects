@@ -33,7 +33,7 @@
 - skill_level:  Intermediate
 - description:  Get comfortable with the core features of Hapi.js, one of the more popular Node frameworks.
 
-### Using and Building npm Modules – In progress (Matthew Prestiflippo; Power Pack)
+### Using and Building npm Modules – Live (Joe Turner/Matthew Prestiflippo; Power Pack)
 - skill_level:  Intermediate
 - description:  If you use Node, you depend on NPM, the package manager for Node. Learn to use NPM and publish your own NPM packages.
 
@@ -54,7 +54,7 @@
 - skill_level:  Advanced
 - description:  Learn what the difference is between logging and metrics, and how to effectively monitor your production instances. When things do inevitably go wrong, have a game plan to be able to get visibility into what your application is doing.
 
-### Chatroom with Node & React - In progress (Matthew Prestifilippo; Conversations)
+### Chatroom with Node & React - Live (Matthew Prestifilippo)
 - skill_level:  Advanced
 - description:  Build a chatroom using React and Node with Socket.io to learn real-time development best practices.
 
