@@ -15,7 +15,7 @@
 - skill_level:  Intermediate
 - description:  Learn to avoid _callback hell_ while processing a series of text files asynchronously. Use new features including promises, generators, and async.
 
-### MEAN Gone Relational - Postgres, Express, Angular, Node
+### MEAN Gone Relational - Postgres, Express, Angular, Node - In progress (Charlie Martin)
 - skill_level:  Intermediate
 - description:  Build a CRUD single page app with Node, Express, Angular, and PostgreSQL (along with Sequelize). Example - [blog post](http://mherman.org/blog/2015/02/12/postgresql-and-nodejs), [repo](https://github.com/mjhea0/node-postgres-todo).
 
