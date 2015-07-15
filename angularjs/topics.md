@@ -1,18 +1,45 @@
+### Critical topics:
+Templating, 2 way data binding, controllers and a module (Beginner)
+core directives (ng-click, etc…) (Intermediate)
+
+### Next:
+Controllers, Scope and Dependency Injection (Intermediate)
+HTTP and intro to Promises
+Custom Directives
+
+### Next next:
+development setup / karma/npm/bower/builds/minification/package management/etc.., 
+Custom services and testing
+More Promises
+testing details
+
+### next next next:
+Services ($HTTP, $Logging, £location, $lolololol, $etc...)
+Types of Custom Services (model, state object, config, helper, action, etc...)
+Routing & UIRouter (3rd party?)
+Route Resolution (resolve blocks)
+Animation
+Accessibility
+Scope objects / digest cycle pitfalls
+Unit Testing, (ngMock).  Jasmine, Karma
+E2E Testing, Protractor
+Testing Custom Directives
+Build frameworks (Browserfy, others)
+App architecture and modules (beginner)
+ngResource (data layer) ←- not critical at all!
+
+And a few more topics from the original lis:
+
 ### Two-way Databinding with Angular
 - Beginner
 - Learn how Angular manages two-way databinding.
-
-### Templating with Angular 
-- Beginner
+### Performance with Angular
+- Advanced
 - TBD
 
-### Directives
+### Angular 2.0
 - Intermediate
-- TBD
-
-### Controllers and Scope in Angular
-- Intermediate
-- TBD
+- Learn about the key changes coming in Angular 2.0. This project will be updated with every major announcement towards its full launch.
 
 ### Single page apps: Client-side Routing and Views
 - Intermediate 
@@ -21,23 +48,3 @@
 ### Angular Modules
 - Beginner
 - TBD
-
-### Dependency Injection
-- Intermediate 
-- TBD
-
-### $http and Promises: Working with API's
-- Intermediate
-- TBD
-
-### Testing Angular Apps
-- Intermediate
-- Write unit tests and end-to-end tests for your Angular apps using Jasmine and Karma, covering your entire application.
-
-### Performance with Angular
-- Advanced
-- TBD
-
-### Angular 2.0
-- Intermediate
-- Learn about the key changes coming in Angular 2.0. This project will be updated with every major announcement towards its full launch.
