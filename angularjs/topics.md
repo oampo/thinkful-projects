@@ -1,19 +1,19 @@
-### Critical topics:
+###Critical topics:
 Templating, 2 way data binding, controllers and a module (Beginner)
 core directives (ng-click, etc…) (Intermediate)
 
-### Next:
+###Next:
 Controllers, Scope and Dependency Injection (Intermediate)
 HTTP and intro to Promises
 Custom Directives
 
-### Next next:
+###Next next:
 development setup / karma/npm/bower/builds/minification/package management/etc.., 
 Custom services and testing
 More Promises
 testing details
 
-### next next next:
+###Next next next:
 Services ($HTTP, $Logging, £location, $lolololol, $etc...)
 Types of Custom Services (model, state object, config, helper, action, etc...)
 Routing & UIRouter (3rd party?)
@@ -28,7 +28,7 @@ Build frameworks (Browserfy, others)
 App architecture and modules (beginner)
 ngResource (data layer) ←- not critical at all!
 
-And a few more topics from the original lis:
+###And a few more topics from the original list:
 
 ### Two-way Databinding with Angular
 - Beginner
