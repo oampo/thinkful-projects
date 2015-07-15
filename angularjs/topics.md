@@ -1,32 +1,32 @@
 ###Critical topics:
-Templating, 2 way data binding, controllers and a module (Beginner)
-core directives (ng-click, etc…) (Intermediate)
+*Templating, 2 way data binding, controllers and a module (Beginner)
+*core directives (ng-click, etc…) (Intermediate)
 
 ###Next:
-Controllers, Scope and Dependency Injection (Intermediate)
-HTTP and intro to Promises
-Custom Directives
+*Controllers, Scope and Dependency Injection (Intermediate)
+*HTTP and intro to Promises
+*Custom Directives
 
 ###Next next:
-development setup / karma/npm/bower/builds/minification/package management/etc.., 
-Custom services and testing
-More Promises
-testing details
+*development setup / karma/npm/bower/builds/minification/package management/etc.., 
+*Custom services and testing
+*More Promises
+*testing details
 
 ###Next next next:
-Services ($HTTP, $Logging, £location, $lolololol, $etc...)
-Types of Custom Services (model, state object, config, helper, action, etc...)
-Routing & UIRouter (3rd party?)
-Route Resolution (resolve blocks)
-Animation
-Accessibility
-Scope objects / digest cycle pitfalls
-Unit Testing, (ngMock).  Jasmine, Karma
-E2E Testing, Protractor
-Testing Custom Directives
-Build frameworks (Browserfy, others)
-App architecture and modules (beginner)
-ngResource (data layer) ←- not critical at all!
+*Services ($HTTP, $Logging, £location, $lolololol, $etc...)
+*Types of Custom Services (model, state object, config, helper, action, etc...)
+*Routing & UIRouter (3rd party?)
+*Route Resolution (resolve blocks)
+*Animation
+*Accessibility
+*Scope objects / digest cycle pitfalls
+*Unit Testing, (ngMock).  Jasmine, Karma
+*E2E Testing, Protractor
+*Testing Custom Directives
+*Build frameworks (Browserfy, others)
+*App architecture and modules (beginner)
+*ngResource (data layer) ←- not critical at all!
 
 ###And a few more topics from the original list:
 
