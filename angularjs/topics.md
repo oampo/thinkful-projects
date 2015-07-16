@@ -1,6 +1,6 @@
 ###Critical topics:
-- Templating, 2 way data binding, controllers and a module (Beginner)
-- core directives (ng-click, etc…) (Intermediate)
+- Templating, 2 way data binding, controllers and a module (Beginner) THT
+- core directives (ng-click, etc…) (Intermediate) THT
 
 ###Next:
 - Controllers, Scope and Dependency Injection (Intermediate)
