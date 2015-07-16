@@ -1,9 +1,9 @@
 ###Critical topics:
 - Templating, 2 way data binding, controllers and a module (Beginner) THT
-- core directives (ng-click, etc…) (Intermediate) THT
+- core directives (ng-click, ng-repeat, ng-show/hide, etc…) (Beginner) THT
 
 ###Next:
-- Controllers, Scope and Dependency Injection (Intermediate)
+- Introduction to Controllers, Scope and Dependency Injection (Intermediate)
 - HTTP and intro to Promises
 - Custom Directives
 
