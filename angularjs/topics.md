@@ -4,7 +4,7 @@
 
 ###Next:
 - Introduction to Controllers, Scope and Dependency Injection (Intermediate)
-- HTTP and intro to Promises
+- HTTP and intro to Promises (Matthew Prestifillippo)
 - Custom Directives
 
 ###Next next:
