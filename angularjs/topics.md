@@ -4,20 +4,20 @@
 
 ###Next:
 - Introduction to Controllers, Scope and Dependency Injection (Intermediate)
+- Services ($HTTP, $Logging, £location, $lolololol, $etc...)
+- Routing & UIRouter (3rd party?)
 - HTTP and intro to Promises (Matthew Prestifillippo)
 - Custom Directives
 - Custom Filters
 
 ###Next next:
+- Custom services, architecture and testing
 - development setup/karma/npm/bower/builds/minification/package management/etc.., 
-- Custom services and testing
-- More Promises
-- testing details
+- More on Promises
+- More on Testing services (with $http)
 
 ###Next next next:
-- Services ($HTTP, $Logging, £location, $lolololol, $etc...)
 - Types of Custom Services (model, state object, config, helper, action, etc...)
-- Routing & UIRouter (3rd party?)
 - Route Resolution, performance, architecture (resolve blocks)
 - Animation
 - Accessibility
